@@ -48,7 +48,9 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
 #EXTINF:-1,CINE TRIANON 
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1694469956.m3u8
 #EXTINF:-1,CNN 
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8 
+#EXTINF: -1,Record News
+https://www.youtube.com/watch?v=VQRH6xM6T2o
 #EXTINF:-1,HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1,RETRO TV
