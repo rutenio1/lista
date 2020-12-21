@@ -1,0 +1,137 @@
+#EXTM3U 
+
+#EXTINF: -1, Loading TV
+https://aws-br.cdn.booyah.live/hls/1000026/34850987_1080.m3u8
+#EXTINF: -1, YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,SEXKPOP
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist_w1270411061.m3u8
+#EXTINF: -1, Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1370791118.m3u8
+#EXTINF: -1,TV MANCHETE WEB
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1374615645.m3u8
+#EXTINF:-1,TV ARACATI 
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RETROO CARTOON 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8
+#EXTINF:-1,canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w162779359.m3u8
+#EXTINF:-1,KRONOS TV 
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV SERIES 
+https://stmv6.srvstm.com/tvserie2/tvserie2/chunklist_w1059517719.m3u8
+#EXTINF:-1,MEGA TV 
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w1388112481.m3u8
+#EXTINF:-1,TV NORDESTE 
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w37018781.m3u8
+#EXTINF:-1,FILMES GOSPEL 
+https://stmv1.srvstm.com/gospelf2/gospelf2/chunklist_w998139935.m3u8
+#EXTINF:-1,TV VALE 
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w1762616700.m3u8
+#EXTINF:-1,VINTAGE TV 
+https://stmv6.srvstm.com/rogerio4248/rogerio4248/chunklist_w1416058350.m3u8
+b9/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiNDUuMTY2LjExOS4yIjtpOjE7czoxMDI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ny4wLjQyODAuODggU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYwNzkxNzM3NTt9
+#EXTINF:-1,TV NOVA ONDA 
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
+#EXTINF:-1,TV CLASSIQUE 
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
+#EXTINF:-1,TV LIBERDADE 
+http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
+#EXTINF:-1,TV PONTA DA SERRA 
+http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
+#EXTINF:-1,PPTV 
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/chunklist_w1536446801.m3u8
+#EXTINF:-1,TV JAPI 
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
+#EXTINF:-1,CINE TRIANON 
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1694469956.m3u8
+#EXTINF:-1,CNN 
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1,HD MUSIC
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1, Go Tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1,RADIO M20
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1,ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1,GOSPEL MUSIC
+https://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1,TV COM
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1,BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1,REDE TV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF: -1, Band - RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+ 
+#EXTINF:-1,Rádio J1
+http://jenny.torontocast.com:8056/;stream.nsv
+#EXTINF:-1, Rádio Branime
+http://server04.stmsg.top:6706/;
+#EXTINF:-1,Rádio Doru Tokusatsu
+https://servidor20-3.brlogic.com:7900/live
+
+#EXTINF:-1, Rádio Tempo Fortaleza FM
+http://r13.ciclano.io:8609/stream
+#EXTINF:-1, Rádio Oi FM
+https://node-30.zeno.fm/a2hnxfndd3quv?rj-ttl=5&rj-tok=AAABdmHjBi4ArAXUEFINWa8A_w
+#EXTINF:-1, Rádio Beach Park FM
+http://www.radioideal.net:8026/;stream/1
+#EXTINF:-1,Rádio Atlântico Sul FM 105.7
+http://142.44.230.74:9026/live?1607959741900
+ 
+#EXTINF: -1,AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF: -1,AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF: -1,AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF: -1,AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF: -1,AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF: -1,AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF: -1,AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF: -1,AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF: -1,AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF: -1,AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF: -1,Tiny 4K - VOD 01
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF: -1,Tiny 4K - VOD 02
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF: -1,
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF: -1,Tiny 4K - VOD 03
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF: -1,
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF: -1,Tiny 4K - VOD 04
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF: -1,Canal MILF
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF: -1,Canal Fetiche
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF: -1,Other - Seventeen Video 01
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+#EXTINF: -1,Other - Girls + Studs 01
+http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
+#EXTINF: -1,Other - Dane Jones - My Sweet Spot
+http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
