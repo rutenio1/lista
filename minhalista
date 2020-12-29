@@ -12,6 +12,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1370791118.m3u8
 #EXTINF: -1,TV MANCHETE WEB
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1374615645.m3u8
+#EXTINF: -1, Discovery Channel
+https://live.tvfolha.com/DISCOVERYSD/video.m3u8
 #EXTINF:-1,TV ARACATI 
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETROO CARTOON 
