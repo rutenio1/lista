@@ -1,7 +1,5 @@
 #EXTM3U 
 
-#EXTINF: -1, Loading TV
-https://aws-br.cdn.booyah.live/hls/1000002/34850987_1080.m3u8
 #EXTINF: -1, YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1,SEXKPOP
