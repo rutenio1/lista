@@ -119,9 +119,9 @@ https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 http://108.61.43.2:8232/stream2?sid=2/stream
 #EXTINF:-1,COCA COLA FM
 http://listen.181fm.com:7080/181-power_128k.mp3
-R#EXTINF:-1,ádio AMC Brasil
-https://stream.zenolive.com/y7mz7h6x77zuv
- #EXTINF:-1,Pornos
+#EXTINF:-1,ádio AMC Brasil
+https://stream.zenolive.com/y7mz7h6x77zuv 
+#EXTINF:-1,PORNOS
 #EXTINF: -1,AdultIPTV.net Russian
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF: -1,AdultIPTV.net Teen
