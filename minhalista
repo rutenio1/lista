@@ -13,7 +13,14 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1374615645.m3u
 #EXTINF:-1,TV ARACATI 
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETROO CARTOON 
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8 
+#EXTINF:-1,isney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+https://stream.zenolive.com/y7mz7h6x77zuv
+#EXTINF:-1,CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w162779359.m3u8
 #EXTINF:-1,KRONOS TV 
@@ -89,8 +96,32 @@ https://node-30.zeno.fm/a2hnxfndd3quv?rj-ttl=5&rj-tok=AAABdmHjBi4ArAXUEFINWa8A_w
 #EXTINF:-1, Rádio Beach Park FM
 http://www.radioideal.net:8026/;stream/1
 #EXTINF:-1,Rádio Atlântico Sul FM 105.7
-http://142.44.230.74:9026/live?1607959741900
- 
+http://142.44.230.74:9026/live?1607959741900 
+#EXTINF:-1,Rádio Rock1
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1,Rádio Rock2
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1,MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:-1,Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1,Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:-1,Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1,Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1,ANTENA 1
+http://108.61.43.2:8232/stream2?sid=2/stream
+#EXTINF:-1,COCA COLA FM
+http://listen.181fm.com:7080/181-power_128k.mp3
+R#EXTINF:-1,ádio AMC Brasil
+https://stream.zenolive.com/y7mz7h6x77zuv
+ #EXTINF:-1,Pornos
 #EXTINF: -1,AdultIPTV.net Russian
 http://cdn.adultiptv.net/russian.m3u8
 #EXTINF: -1,AdultIPTV.net Teen
