@@ -1,4 +1,63 @@
-#EXTM3U 
+#EXTM3U  
+#EXTINF:-1,Discovery Channel
+http://tv.factoryiptv.com:80/jurema10/jurema10/50691
+#EXTINF:-1,ID: Investigação Discovery
+http://tv.factoryiptv.com:80/jurema10/jurema10/37114
+#EXTINF:-1,HISTORY
+http://rec2.distv.net:80/plinio/123/165
+#EXTINF:-1,HISTORY
+http://tv.factoryiptv.com:80/jurema10/jurema10/37081
+#EXTINF:-1,A&E HD
+http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178499
+#EXTINF:-1,AMC
+http://tv.factoryiptv.com:80/jurema10/jurema10/41087
+#EXTINF:-1,ANIMAL PLANET
+http://rec2.distv.net:80/luciana/123456/114
+#EXTINF:-1,ANIMAL PLANET [ALT]
+http://tv.factoryiptv.com:80/jurema10/jurema10/50641
+#EXTINF:-1,LIFE TIME
+http://rec2.distv.net:80/luciana/123456/167
+#EXTINF:-1,LIFETIME [ALT]
+http://tv.factoryiptv.com:80/jurema10/jurema10/50834
+#EXTINF:-1,CANAL SONY
+http://rec2.distv.net:80/evaldo/12345/123
+#EXTINF:-1CARTOON NETWORK
+http://rec2.distv.net:80/luciana/123456/124
+#EXTINF:-1,Cartoon Network
+http://tv.factoryiptv.com:80/jurema10/jurema10/37121
+#EXTINF:-1,Comedy Central
+http://tv.factoryiptv.com:80/jurema10/jurema10/37118
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/madruga/12345/131
+#EXTINF:-1,Discovery Home & Health HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/37115
+#EXTINF:-1,DISCOVERY WORLD
+http://rec2.distv.net:80/madruga/12345/137
+#EXTINF:-1,Discovery World HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36981
+#EXTINF:-1,E! HD
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2100
+#EXTINF:-1,E! HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36920
+#EXTINF:-1,FOX [ALT]
+http://tv.factoryiptv.com:80/jurema10/jurema10/50752
+#EXTINF:-1,FOX
+http://rec2.distv.net:80/plinio/123/148
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net:80/plinio/123/159
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net:80/luciana/123456/159
+#EXTINF:-1,HBO Plus
+http://tv.factoryiptv.com:80/jurema10/jurema10/37084
+#EXTINF:-1,HBO POP
+http://rec2.distv.net:80/plinio/123/161
+#EXTINF:-1,HBO POP [ALT]
+http://tv.factoryiptv.com:80/jurema10/jurema10/50852
+
+#EXTINF:-1,NAT GEO
+http://rec2.distv.net:80/evaldo/12345/172
+#EXTINF:-1,NAT GEO WILD
+http://rec2.distv.net:80/luciana/123456/174
 
 #EXTINF: -1, YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
