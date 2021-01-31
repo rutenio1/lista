@@ -140,7 +140,32 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF: -1, Band - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
- 
+ #EXTINF:-1, RADIO GOSPEL 1
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:-1, RADIO GOSPEL 2
+https://www.radios.com.br/old_php/players/load/silence.mp3
+#EXTINF:-1, RADIO GOSPEL 3
+https://ssl.srvif.com:8252/;?1612055391263
+#EXTINF:-1, RADIO GOSPEL 4
+https://servidor33-3.brlogic.com:8192/live
+#EXTINF:-1, RADIO GOSPEL 5
+http://199.101.98.82:11702/;
+#EXTINF:-1, RADIO GOSPEL 6
+http://192.99.150.31:9101/;
+#EXTINF:-1, RADIO GOSPEL 7
+http://centova.nardele.com.br:4343/stream?1612056587107
+#EXTINF:-1, RADIO GOSPEL 8
+https://www.radios.com.br/old_php/players/load/silence.mp3
+#EXTINF:-1,  RADIO GOSPEL 9
+http://centova2.euroti.com.br:8131/stream?1612056760475
+#EXTINF:-1, RADIOGOSPEL 10
+http://210.stms.live:7110/stream?1612056827853
+#EXTINF:-1 RADIO GOSPEL 11
+http://hts03.kshost.com.br:8822/live?1612056854801
+#EXTINF:-1 RADIO GOSPEL 12
+http://node-03.zeno.fm/x5acdqyx25quv?1612056972463=&rj-tok=AAABd1Yec-QAh0SiD9V6in1q_A&rj-ttl=5
+
+
 #EXTINF:-1,Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
 #EXTINF:-1, Rádio Branime
