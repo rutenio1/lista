@@ -140,7 +140,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF: -1, Band - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
- #EXTINF:-1, RADIO G ospel1  
+#EXTINF:-1, RADIO GOSPEL 1
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #EXTINF:-1, RADIO GOSPEL 2
 https://servidor33-3.brlogic.com:8192/live
