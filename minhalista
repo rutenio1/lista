@@ -1,6 +1,6 @@
-#EXTM3U  
-#EXTINF:-1, teste Gdrive
-https://drive.google.com/uc?export=download&id=1E6c9-7lSu1tBGdYwmtOq_qr6PNvVea89
+ #EXTINF:-1, teste gdrive
+https://r5---sn-bg07dnze.c.drive.google.com/videoplayback?expire=1612378897&ei=0boaYPKpC4L9hgairIwg&ip=45.166.116.14&cp=QVRGVERfV1hXSFhPOkNkQVIwVUJkVmhHSUZyMkpoWVJRODBJSlAtX1RzOWFaVGdNbWEyYm9LUjk&id=fc5617d21d9fbcab&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1DjLI2Oj-w5do1B1Iqgn6gIIRDNFHzWJx&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=8862.081&lmt=1610942215485903&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgVRW7j7Q4GJSXpWcPbEjDFLKl_haytn8obp597vsh5t8CIDGIIZIVLmbLYLSXKfUiq0i0uPYKFI8WddTgzPX_Ow5F&cpn=NTcD8CGKCc7c1-V_&c=WEB_EMBEDDED_PLAYER&cver=20210202&redirect_counter=1&cm2rm=sn-bg0de76&req_id=23470394b15736e2&cms_redirect=yes&mh=VD&mm=34&mn=sn-bg07dnze&ms=ltu&mt=1612364445&mv=m&mvi=5&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRQIgKLEfzTyF6Ein32whyW8pL02o7pdT0QEgy7pWuTQs4N8CIQDcRoB743uSQBnnk2-lhy4Vi4MIqjU9RJApUnivmLXkBw%3D%3D
+
 #EXTINF:-1,Discovery Channel
 http://tv.factoryiptv.com:80/jurema10/jurema10/50691
 #EXTINF:-1,ID: Investigação Discovery
