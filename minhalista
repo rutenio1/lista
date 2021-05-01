@@ -1,3 +1,48 @@
+#EXTINF:-1 Globo
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosp_cfe21c68_8977aacbe4fd1f8e6bf5f98515a96a63d62b9f8e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTY2LjExOC4zNCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjkzIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTk4MzUxMTg7fQ%3D%3D
+#EXTINF:-1,Band
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1,Record News
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w796813242.m3u8
+
+#EXTINF:-1,TV Diário
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlOYXxEHkngzmj1vYVGXFI)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:-1,Tv
+https://stream-03.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlOYXxEHkngzmj1vYVGXFI)/dm/3/x7txn7q/s/live-0.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1,SBT-1
+https://r2---sn-2gv8xqvgxpgxapcg-4vgl.googlevideo.com/videoplayback?expire=1619857705&ei=ybyMYI__B5yb1sQPgtOA2Ak&ip=45.166.118.34&id=ABVQXgr2LW4.2&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-2gv8xqvgxpgxapcg-4vgl%2Csn-pmcg-bg0d&ms=lva%2Crdu&mv=m&mvi=2&pl=24&gcr=br&initcwndbps=671250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=CNFNvPE4kde_u3iou5p0kXwF&gir=yes&mt=1619835867&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=QoEQR2buKsG-nQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgGoZtjxq4ERZZcwG371tv1qV0U3US-dKuRHhYC33YhaMCIQDVpM1ZY9YO36LF-q7UDUt3fx7nr6nzg-zXqyQf9cvUUw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgVWESXc0xyKroDjU-ICZCEe460YOqGFQmP-iji6xOMkYCIAQPL3Y2V_MjT1_2Ck1KfZ0HMlRQDAphM9n5JO35yfPy&alr=yes&cpn=nlN4Cezh3s6eAfCV&cver=1.20210428.1.1&sq=3299806&rn=3&rbuf=4886
+
+#EXTINF:-1,SBT-2
+https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/chunklist_w291688256.m3u8
+
+#EXTINF:-1,Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w859172980.m3u8
+
+#EXTINF:-1,Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w838264362.m3u8
+
+#EXTINF:-1, Globo-1
+https://cdn.esporteone.com/GLOBORJ/video.m3u8?md5=Dpe3mOpAmCb28hiiKFXJfA&expires=1619846311
+#EXTINF:-1, Globo-2
+https://cdn.esporteone.com/GLOBONORSD/video.m3u8?md5=NbXrQFbqhy44us4nGq8Vfw&expires=1619846740
+#EXTINF:-1, Globo-3
+https://cdn.esporteone.com/GLOBONORHD/video.m3u8?md5=F4r--pcFEpPL-hBJFCIrkw&expires=1619846765
+#EXTINF:-1, Globo-4
+https://cdn.esporteone.com/GLOBORJSD/video.m3u8?md5=26BNPfo1fjpfcFSZ2O5mDA&expires=1619846803
+#EXTINF:-1, Globo-6
+https://cdn.esporteone.com/GLOBOMINASSD/video.m3u8?md5=PEIT-Oc5XWoDtXaWPPAeyQ&expires=1619846545
+
+#EXTINF:-1, Record-1
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Record-2
+https://cdn.esporteone.com/RECORD/video.m3u8?md5=Ziu5hFJUxgT6itzW9S-eNA&expires=1619846654
+#EXTINF:-1, Record-3
+https://cdn.jmvstream.com/live/hls/lv_712/LV712_Rfjqak3w63.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTY2LjExOC4zNCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjkzIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTk4MzgwODU7fQ%3D%3D
+
 
 #EXTINF: -1, YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
