@@ -1,9 +1,5 @@
-#EXTINF:-1 Globo
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosp_cfe21c68_8977aacbe4fd1f8e6bf5f98515a96a63d62b9f8e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTY2LjExOC4zNCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjkzIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTk4MzUxMTg7fQ%3D%3D
-#EXTINF:-1,Band
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
 
 #EXTINF:-1,Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w796813242.m3u8
@@ -25,16 +21,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w859172980.m3u8
 #EXTINF:-1,Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w838264362.m3u8
 
-#EXTINF:-1, Globo-1
-https://cdn.esporteone.com/GLOBORJ/video.m3u8?md5=Dpe3mOpAmCb28hiiKFXJfA&expires=1619846311
-#EXTINF:-1, Globo-2
-https://cdn.esporteone.com/GLOBONORSD/video.m3u8?md5=NbXrQFbqhy44us4nGq8Vfw&expires=1619846740
-#EXTINF:-1, Globo-3
-https://cdn.esporteone.com/GLOBONORHD/video.m3u8?md5=F4r--pcFEpPL-hBJFCIrkw&expires=1619846765
-#EXTINF:-1, Globo-4
-https://cdn.esporteone.com/GLOBORJSD/video.m3u8?md5=26BNPfo1fjpfcFSZ2O5mDA&expires=1619846803
-#EXTINF:-1, Globo-6
-https://cdn.esporteone.com/GLOBOMINASSD/video.m3u8?md5=PEIT-Oc5XWoDtXaWPPAeyQ&expires=1619846545
 
 #EXTINF:-1, Record-1
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
