@@ -1,4 +1,130 @@
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV ABERTA", GLOBO SP 
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo = "https://goo.gl/IQS0pJ" group-title = "Notícias", GLOBO NEWS
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/IQS0pJ" group-title = "Notícias", GLOBO NEWS
+http://zip.net/bbtFWz
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "", SBT SP 
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "", SBT HD 
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "", SBT  
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title = "CANAL ABERTO", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "CANAL ABERTO", SBT PB 
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "TV Aberta", SBT RS 
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title = "TV Aberta", SBT CARUARU 
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/ig4JdX" group-title = "NOTICIAS", BAND NEWS 
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title = "TV ABERTA", BAND SP 
+http://5.79.68.138:8081/look/band/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s15.postimg.org/nvhe10jzb/band3.png" group-title = "TV Aberta", BAND PARÁ 
+http://evce.mm.uol.com.br:1935/band/band.smil/live.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s15.postimg.org/nvhe10jzb/band3.png" group-title = "banda", BANDA VIA MORENA 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s15.postimg.org/nvhe10jzb/band3.png Banda" group-title = "", BAND 
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png" group-title = "CANAL ABERTO", REDETV HD 
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/r2wU9uyHvS/L8At8iKsPCP7tRGt.png" group-title = "CANAL ABERTO", REDETV RN 
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title = "TV Aberta", REDE TV PR 
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-logo = "https://lut.im/dVGvRFx4zd/9DR8ZGuDFAvXaMcp.png" group-title = "CANAL ABERTO", REDETV ARAPUAN - PB 
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/A5lt2LXanv/Lfwm9l9SZfzOfoi9.png" group-title = "JORNALISMO", GRAVAR NOTÍCIAS PARA 
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/P0XMqwI.jpg" group-title = "ABERTAS-NOTICIAS", RECORD NEWS 
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s20.postimg.org/s2r5c8fxp/record.png" group-title = "TV Aberta", RECORD SP 
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+
+#EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/logos/recordtv.png" group-title = "CANAL ABERTO", RECORD (opção 02) 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" group-title = "CANAL ABERTO", TV VITORIA RECORD ES HD 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF: -1 tvg-logo = "http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title = "canal aberto", RECORD HD 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF: -1 tvg-logo = "http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title = "canal aberto", RECORD (PB) 
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/logos/redemeionorte.png" group-title = "Abertos", REDE MEIO NORTE  
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/39pLYC1PRJ/0pjAT8CBbwj7fYMU.png" group-title = "CANAL ABERTO", TV CORREIO PB 
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title = "CANAL ABERTO", REDE FAMÍLIA HD 
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title = "Canais abertos", REDE FAMILIA 
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/2R3A4U7Abd/P3uLvqZ8Xpuaf2B7.png" group-title = "CANAL ABERTO", LIVRE TV 
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/5vZQuLLt8w/sNvwtlfliDFCyHfX.png" group-title = "CANAL ABERTO", MULTI TV 
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s30.postimg.org/8yz2d01r5/Logo_OK.png" group-title = "TV Aberta", REDE PETROPOLES 
+http://wz6.dnip.com.br:1935/california/california.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lut.im/ywPwtyRjKD/3gCocou245KVB3nH.png" group-title = "CANAL ABERTO", TV ESCOLA HD 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/1XNfzj" group-title = "Canais Abertos", TV GAZETA 
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF: -1 tvg-group = "TV Aberta" tvg-logo = "http://s20.postimg.org/jy9ug0er1/TV_Gazeta.png", TV GAZETA 
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/logos/tvgazeta.png" group-title = "CANAL ABERTO", TV GAZETA HD 
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/MkAS5S" group-title = "Canais Abertos", TV FUTURA 
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/47ZujR" group-title = "CANAL ABERTO", FUTURA TV UP HD 
+
+#EXTINF: -1 tvg-logo = "http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title = "TV Aberta", TV CULTURA  
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title = "TV Aberta", TV CULTURA PA 
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/logos/tvitarare.png" group-title = "CANAL ABERTO", TV CULTURA HD - ITARARÉ PB 
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+
+#EXTINF: -1 tvg-logo = "http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" group-title = "CANAL ABERTO", TV DIARIO 
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 #EXTINF:-1,Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w796813242.m3u8
 
