@@ -1,17 +1,4 @@
-#EXTINF: -1 tvg-id = "Globo SP" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV Aberta", Globo SP
-http://95.141.35.104:8081/looktvs/sptvn/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF: -1 tvg-id = "Globo SP" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV Aberta", Globo SP HD
-http://listaiptv.brcs.ml:8080/HD_GLOBO_SP/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF: -1 tvg-id = "Globo Rio" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV Aberta", Globo RJ
-http://158.58.172.5:8081/looktvs/0globo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF: -1 tvg-id = "Globo Rio" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV Aberta", Globo RJ HD
-http://listaiptv.brcs.ml:8080/HD_GLOBO_RJ/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF: -1 tvg-id = "Globo Brasília" tvg-logo = "http://s17.postimg.org/w75u3yg1n/globo2.png" group-title = "TV Aberta", Globo Nordeste
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w796813242.m3u8
 
