@@ -185,12 +185,24 @@ http://centova2.euroti.com.br:8131/stream?1612056760475
 
 #EXTINF:-1,Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
-#EXTINF:-1, Rádio J Hero
-https://stm1.radiojhero.com:18008/;?type=http
-#EXTINF: -1, Anison.FM
-https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1, J-Pop Sakura
+https://igor.torontocast.com:1710/;
+#EXTINF: -1, Shonan Beach
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF: -1, JMusicAnime Radio
 https://node-13.zeno.fm/g0wsfbbaft5tv?rj-ttl=5&rj-tok=AAABeiFtHcMAU87Kirg9JXbKzA
+#EXTINF: -1, FM KARUIZAWA
+https://chi-live3-ais-relay2.leanstream.co/musicbird/JCB108.stream/8tGpGN6IJE5p-162405869-9984.aac
+
+#EXTINF: -1, Japan Hits - Asia DREAM
+http://igor.torontocast.com:1025/;
+#EXTINF: -1, J-Rock Powerplay
+https://kathy.torontocast.com:3340/;
+#EXTINF: -1, Radio Anime MX 
+https://streaming.radionomy.com/JamendoLounge
+#EXTINF: -1, Rádio Anime Plus
+https://node-18.zeno.fm/rfun7q8bt8quv?rj-ttl=5&rj-tok=AAABeiGAHaQA1Xag8x4juIKG6g
+
 
 
 #EXTINF:-1, Rádio Tempo Fortaleza FM
