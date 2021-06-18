@@ -41,10 +41,8 @@ https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w1579571020.m3u8
 #EXTINF: -1, TV UNIÃO
 https://stmv1.srvif.com/admin/admin/chunklist_w1551215385.m3u8
 
-#EXTINF: -1, TV DIÁRIO
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZa7IDAaunacCTrszQmdsgFw)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
-#EXTINF: -1, TV UNIÃO NATAL
+#EXTINF: -1, TV UNIÃO  2
 https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w526989271.m3u8
 
 #EXTINF: -1, RSC TV Brasil
