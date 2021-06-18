@@ -132,7 +132,7 @@ https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
 #EXTINF:-1,TV LIBERDADE 
 http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
 #EXTINF: -1, Tv Escola HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(dBetpny0OaHBahg9rtMVaw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/live_540_index.m3u8
 #EXTINF:-1,TV JAPI 
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
 #EXTINF:-1,CINE TRIANON 
@@ -141,10 +141,6 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1694469956.m3u8
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 #EXTINF: -1, Tv Escola HD
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-#EXTINF: -1, GLOBO
-http://31.204.153.115:8081/live/globok/playlist.m3u8 
-#EXTINF: -1, TV BRASIL
-http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 
 #EXTINF:-1,HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
