@@ -103,8 +103,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1370791118.m3u8
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1750241911.m3u8
 #EXTINF:-1,RETROO CARTOON 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8 
-#EXTINF:-1,Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF: -1, ZENO LIVE
 https://stream.zenolive.com/y7mz7h6x77zuv
 #EXTINF:-1,CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
@@ -116,7 +115,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w16277
 #EXTINF:-1,TV SERIES 
 https://stmv6.srvstm.com/tvserie2/tvserie2/chunklist_w1059517719.m3u8
 #EXTINF:-1,MEGA TV 
-https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w1388112481.m3u8
+https://stmv1.srvif.com/megacine/megacine/chunklist_w617485856.m3u8
 #EXTINF:-1,TV NORDESTE 
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w37018781.m3u8
 #EXTINF:-1,FILMES GOSPEL 
@@ -132,18 +131,21 @@ https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
 #EXTINF:-1,TV LIBERDADE 
 http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
-#EXTINF:-1,TV PONTA DA SERRA 
-http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
-#EXTINF:-1,PPTV 
-https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/chunklist_w1536446801.m3u8
+#EXTINF: -1, Tv Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 #EXTINF:-1,TV JAPI 
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
 #EXTINF:-1,CINE TRIANON 
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1694469956.m3u8
-#EXTINF:-1,CNN 
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8 
-#EXTINF: -1,Record News
-https://www.youtube.com/watch?v=VQRH6xM6T2o
+#EXTINF:-1,FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1, Tv Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF: -1, GLOBO
+http://31.204.153.115:8081/live/globok/playlist.m3u8 
+#EXTINF: -1, TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
 #EXTINF:-1,HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1,RETRO TV
@@ -187,10 +189,14 @@ http://centova2.euroti.com.br:8131/stream?1612056760475
 
 #EXTINF:-1,Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
-#EXTINF:-1, Rádio Branime
-http://server04.stmsg.top:6706/;
-#EXTINF:-1,Rádio Doru Tokusatsu
-https://servidor20-3.brlogic.com:7900/live
+#EXTINF:-1, Rádio BLAST!
+https://centova4.transmissaodigital.com:20143/stream/1/
+#EXTINF: -1, RADIO BLAST!
+http://pt.streema.com/radios/play/Radio_Blast
+#EXTINF: -1, ANIMECOL
+http://pt.streema.com/radios/play/Animecol_Radio
+#EXTINF: -1, RADIO BLAST!
+http://pt.streema.com/radios/play/Radio_Blast
 
 #EXTINF:-1, Rádio Tempo Fortaleza FM
 http://r13.ciclano.io:8609/stream
