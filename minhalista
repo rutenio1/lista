@@ -38,8 +38,14 @@ https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto
 #EXTINF: -1,TV Xtreme
 https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w1579571020.m3u8
 
+#EXTINF: -1, TV UNIÃO
+https://stmv1.srvif.com/admin/admin/chunklist_w1551215385.m3u8
+
 #EXTINF: -1, TV DIÁRIO
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globorj_bc15c774_8282af653d01d021baf716bdd86087373a076834/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0MSI7aToxO3M6MTE1OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTEuMC40NDcyLjEwNiBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjI0MDM4Nzc1O30%3D
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZa7IDAaunacCTrszQmdsgFw)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF: -1, TV UNIÃO NATAL
+https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w526989271.m3u8
 
 #EXTINF: -1, RSC TV Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8
