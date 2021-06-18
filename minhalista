@@ -185,14 +185,13 @@ http://centova2.euroti.com.br:8131/stream?1612056760475
 
 #EXTINF:-1,Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
-#EXTINF:-1, Rádio BLAST!
-https://centova4.transmissaodigital.com:20143/stream/1/
-#EXTINF: -1, RADIO BLAST!
-http://pt.streema.com/radios/play/Radio_Blast
-#EXTINF: -1, ANIMECOL
-http://pt.streema.com/radios/play/Animecol_Radio
-#EXTINF: -1, RADIO BLAST!
-http://pt.streema.com/radios/play/Radio_Blast
+#EXTINF:-1, Rádio J Hero
+https://stm1.radiojhero.com:18008/;?type=http
+#EXTINF: -1, Anison.FM
+https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF: -1, JMusicAnime Radio
+https://node-13.zeno.fm/g0wsfbbaft5tv?rj-ttl=5&rj-tok=AAABeiFtHcMAU87Kirg9JXbKzA
+
 
 #EXTINF:-1, Rádio Tempo Fortaleza FM
 http://r13.ciclano.io:8609/stream
