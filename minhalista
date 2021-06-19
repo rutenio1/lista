@@ -3,8 +3,6 @@
 
 #EXTINF:-1,Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w392650902.m3u8
-#EXTINF:-1, Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/subtitle/pt/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=c08acc54-94bc-44ec-9e1b-82b942078213&deviceVersion=91.0.4472.106&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&deviceType=web&deviceMake=Chrome&sid=5a0c6cab-d127-11eb-87c8-0242ac110002&advertisingId=&deviceLat=-3.7170&deviceLon=-38.5287&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 
 #EXTINF:-1,SBT-2
