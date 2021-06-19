@@ -4,6 +4,9 @@
 #EXTINF:-1,Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w392650902.m3u8
 
+#EXTINF:-1, CNN
+https://r7---sn-pmcg-bg0l.googlevideo.com/videoplayback?expire=1624094807&ei=92PNYMSSBOz51sQP85iK2A4&ip=45.166.118.34&id=ug76IaSjSqM.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=L05JzeyMqSwUm76p4WgajFMF&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB&n=vO1nfvJF2NsWCg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhANbbNb1hZrNny6OsLLscDty_Uje-TZUbbV4f14nn9jLFAiAIvlEsm_Se3ypxMYxpFq1q2jmkmoJ4lX108uDF_W8now%3D%3D&alr=yes&cpn=njPrEExCNTizehQj&cver=2.20210617.01.00&redirect_counter=1&cm2rm=sn-4g5ojpnjvfxnaxt-va5e7e&cms_redirect=yes&mh=iG&mm=29&mn=sn-pmcg-bg0l&ms=rdu&mt=1624073088&mv=m&mvi=7&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgWZc40YNbjxFVCgUaUQvrKXxBsEBq7fnIBFTd-k5j5kkCIEnLSWhjSykNRrBa_KvXE_38vkjo5JwHVADJZaWMexJC&sq=139&rn=10&rbuf=14664
+
 #EXTINF:-1,SBT-2
 https://5a1c76baf08c0.streamlock.net/sbtinterior/7pvjagfew38f093wcsx9qorpvzgmcdzrnkuj/chunklist_w273884558.m3u8
 
