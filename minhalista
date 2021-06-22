@@ -283,4 +283,63 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Avenida Caxias do Sul . Luíz Franciosi Sério
+https://video-cam.bitcom.psi.br/CSL-PRACA-FORQUETA/CSL-PRACA-FORQUETA.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R .Bento Gonçalves
+https://video-cam.bitcom.psi.br/CSL-CESAR-CIDADAOAMIGO-360/CSL-CESAR-CIDADAOAMIGO-360.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Das Feiras 2
+https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-ESQUERDA/CSL-PRACA-FEIRAS-ESQUERDA.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Das Feiras
+https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-DIREITA/CSL-PRACA-FEIRAS-DIREITA.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Nova Petrópolis Rua Coberta
+https://video-cam.bitcom.psi.br/NP-RUA-COBERTA/NP-RUA-COBERTA.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Nova Petrópolis Labirinto Verde
+https://video-cam.bitcom.psi.br/NP-LABIRINTO-VERDE/NP-LABIRINTO-VERDE.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Centro Leste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-LESTE/CSL-CLIMA-AO-VIVO-LESTE.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Centro Oeste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-OESTE/CSL-CLIMA-AO-VIVO-OESTE.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Parque dos Pinheiros
+https://video-cam.bitcom.psi.br/FRP-PARQUE-DOS-PINHEIROS/FRP-PARQUE-DOS-PINHEIROS.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Rod. dos Romeiros
+https://video-cam.bitcom.psi.br/FRP-CARAVAGGIO-IGREJA/FRP-CARAVAGGIO-IGREJA.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Igreja de Caravaggio
+https://video-cam.bitcom.psi.br/FRP-CARAVAGGIO-CLIMA-AO-VIVO/FRP-CARAVAGGIO-CLIMA-AO-VIVO.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Rod . Br 116
+https://video-cam.bitcom.psi.br/CSL-360-POP-CRISTOVAO/CSL-360-POP-CRISTOVAO.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Hotel Intercity
+https://video-cam.bitcom.psi.br/CSL-360-POP-INTERCITY/CSL-360-POP-INTERCITY.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R . Vinte de Setembro
+https://video-cam.bitcom.psi.br/CSL-360-BOMBEIROS/CSL-360-BOMBEIROS.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R . Vinte de Setembro 2
+https://video-cam.bitcom.psi.br/CSL-360-BOMBEIROS2/CSL-360-BOMBEIROS2.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Dante Alighieri
+https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-CHAFARIZ/CSL-PRACA-DANTE-CHAFARIZ.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Mashhad
+https://tv.razavi.ir/hls/jomhori_1.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Mykonos
+https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Bergen Festplassen
+https://stream1.vossaskyen.no/bt/Festplassen.stream/playlist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Gondola Plaza Aspen
+https://2-fss-2.streamhoster.com/pl_126/200612-1195860-1/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Aspen Square Hotel
+https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/playlist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Altar do Santuário De Aparecida Central
+https://59566a7951f71.streamlock.net:8090/santuario_aparecida/_definst_/canal1.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Aspen Mountain
+https://2-fss-2.streamhoster.com/pl_126/200612-1195862-1/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Yellowstone National Park Geyser
+https://56cdb389b57ec.streamlock.net:1935/nps/faithful.stream/playlist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Passo de Torres
+http://vid1.streaming.websul.net.br:1935/live/ods-torres.stream/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Avila Beach Hotel
+https://cams.cdn-surfline.com/cdn-wc/wc-avilabeach/chunklist.m3u8
+#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Praia de São Pedro
+https://56cf3370d8dd3.streamlock.net:1935/live/stpete.stream/playlist.m3u8
+
+
+
+
+
 
