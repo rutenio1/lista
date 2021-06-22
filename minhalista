@@ -170,77 +170,72 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF: -1, Band - RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Tempo Fortaleza FM
+http://r13.ciclano.io:8609/stream
+#EXTINF: - 1group-title = "Rádios FM", Rádio Oi FM
+https://node-30.zeno.fm/a2hnxfndd3quv?rj-ttl=5&rj-tok=AAABdmHjBi4ArAXUEFINWa8A_w
+#EXTINF: -1 group-title = "Rádios FM", Rádio Beach Park FM
+http://www.radioideal.net:8026/;stream/1
+#EXTINF: -1 group-title = "Rádios FM", Rádio Atlântico Sul FM 105,7
+http://142.44.230.74:9026/live?1607959741900 
+#EXTINF: -1 group-title = "Rádios FM", Rádio Rock1
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF: -1, Rádio Rock2
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", ANTENA 1
+http://108.61.43.2:8232/stream2?sid=2/stream
+#EXTINF: -1 group-title = "Rádios FM", COCA COLA FM
+http://listen.181fm.com:7080/181-power_128k.mp3
 
-#EXTINF:-1, RADIO GOSPEL 1
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF:-1, RADIO GOSPEL 2
-https://servidor33-3.brlogic.com:8192/live
-#EXTINF:-1, RADIO GOSPEL 3
-http://199.101.98.82:11702/;
-
-#EXTINF:-1, RADIO GOSPEL 4
-http://centova.nardele.com.br:4343/stream?1612056587107
-#EXTINF:-1, RADIO GOSPEL 5
-https://www.radios.com.br/old_php/players/load/silence.mp3
-#EXTINF:-1,  RADIO GOSPEL 6
-http://centova2.euroti.com.br:8131/stream?1612056760475
-
-
-
-#EXTINF:-1,Rádio J1
+#EXTINF: -1 group-title = "Rádios Otakus", ádio AMC Brasil
+https://ssl.painelcast.com:6728/stream 
+#EXTINF: -1 group-title = "Rádios Otakus", Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
-#EXTINF:-1, J-Pop Sakura
+#EXTINF: -1 group-title = "Rádios Otakus", J-Pop Sakura
 https://igor.torontocast.com:1710/;
-#EXTINF: -1, Shonan Beach
+#EXTINF: -1 group-title = "Rádios Otakus", Praia Shonan
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-#EXTINF: -1, JMusicAnime Radio
+#EXTINF: -1 group-title = "Rádios Otakus", Rádio JMusicAnime
 https://node-13.zeno.fm/g0wsfbbaft5tv?rj-ttl=5&rj-tok=AAABeiFtHcMAU87Kirg9JXbKzA
-#EXTINF: -1, FM KARUIZAWA
+#EXTINF: -1 group-title = "Rádios Otakus", FM KARUIZAWA
 https://chi-live3-ais-relay2.leanstream.co/musicbird/JCB108.stream/8tGpGN6IJE5p-162405869-9984.aac
-
-#EXTINF: -1, Japan Hits - Asia DREAM
+#EXTINF: -1 group-title = "Rádios Otakus", Êxitos do Japão - Ásia DREAM
 http://igor.torontocast.com:1025/;
-#EXTINF: -1, J-Rock Powerplay
+#EXTINF: -1 group-title = "Rádios Otakus", J-Rock Powerplay
 https://kathy.torontocast.com:3340/;
-#EXTINF: -1, Radio Anime MX 
+#EXTINF: -1 group-title = "Rádios Otakus", Rádio Anime MX 
 https://streaming.radionomy.com/JamendoLounge
-#EXTINF: -1, Rádio Anime Plus
+#EXTINF: -1 group-title = "Rádios Otakus", Rádio Anime Plus
 https://node-18.zeno.fm/rfun7q8bt8quv?rj-ttl=5&rj-tok=AAABeiGAHaQA1Xag8x4juIKG6g
 
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 1
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 2
+https://servidor33-3.brlogic.com:8192/live
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 3
+http://199.101.98.82:11702/;
 
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 4
+http://centova.nardele.com.br:4343/stream?1612056587107
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 5
+https://www.radios.com.br/old_php/players/load/silence.mp3
+#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 6
+http://centova2.euroti.com.br:8131/stream?1612056760475
 
-#EXTINF:-1, Rádio Tempo Fortaleza FM
-http://r13.ciclano.io:8609/stream
-#EXTINF:-1, Rádio Oi FM
-https://node-30.zeno.fm/a2hnxfndd3quv?rj-ttl=5&rj-tok=AAABdmHjBi4ArAXUEFINWa8A_w
-#EXTINF:-1, Rádio Beach Park FM
-http://www.radioideal.net:8026/;stream/1
-#EXTINF:-1,Rádio Atlântico Sul FM 105.7
-http://142.44.230.74:9026/live?1607959741900 
-#EXTINF:-1,Rádio Rock1
-https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
-#EXTINF:-1,Rádio Rock2
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
-#EXTINF:-1,MPB
-https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
-#EXTINF:-1,Rádio Pop Rock
-https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
-#EXTINF:-1,Rádio Românticas
-https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
-#EXTINF:-1,Rádio Pop Rock Nacional
-https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
-#EXTINF:-1,Rádio Anos 2000
-https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
-#EXTINF:-1,Rádio Anos 90
-https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
-#EXTINF:-1,Rádio Anos 80
-https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
-#EXTINF:-1,ANTENA 1
-http://108.61.43.2:8232/stream2?sid=2/stream
-#EXTINF:-1,COCA COLA FM
-http://listen.181fm.com:7080/181-power_128k.mp3
-#EXTINF:-1,ádio AMC Brasil
-https://stream.zenolive.com/y7mz7h6x77zuv 
 #EXTINF:-1,PORNOS
 #EXTINF: -1,AdultIPTV.net Russian
 http://cdn.adultiptv.net/russian.m3u8
