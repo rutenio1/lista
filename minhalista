@@ -285,6 +285,12 @@ http://cdn.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1, Praia do Futuro 
 https://streaming.climaaovivo.com.br/fortaleza2.ce/tracks-v1/mono.m3u8?token=8815ee66e5a76b05973134f9335fc409c201703a-64961f803fedcfd1b9a0b171a5753ec9-1624416255-1624414455
+#EXTINF:-1, Barra do Ceará - Torre HNA Conecta 
+https://streaming.climaaovivo.com.br/fortaleza1.ce/tracks-v1/mono.m3u8?token=55f7dedafe17fe7c9589bb292277a9e7765189a9-881857151eff9ea5bc485b704c065bde-1624416547-1624414747
+#EXTINF:-1, Juazeiro do Norte/CE Torre LinkCariri
+https://streaming.climaaovivo.com.br/juazeirodonorte2.ce/tracks-v1/mono.m3u8?token=343f2848e2b9464589494ea29ae21ff3ee41fd5e-1c79cc6228222fada976455c34d0e942-1624416727-1624414927
+#EXTINF:-1, Barbalha/CE Torre da LinkCariri
+https://streaming.climaaovivo.com.br/barbalha1.ce/tracks-v1/mono.m3u8?token=967311ac8f79fde7103bef4327a0925d1d259cdc-86fb2425576062bcf268fbf6e08e05b9-1624416892-1624415092
 #EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Avenida Caxias do Sul . Luíz Franciosi Sério
 https://video-cam.bitcom.psi.br/CSL-PRACA-FORQUETA/CSL-PRACA-FORQUETA.stream/chunklist.m3u8
 #EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R .Bento Gonçalves
