@@ -202,6 +202,8 @@ http://108.61.43.2:8232/stream2?sid=2/stream
 http://listen.181fm.com:7080/181-power_128k.mp3
 #EXTINF:-1, Rádio Branime
 http://server04.stmsg.top:6706/;
+#EXTINF:-1, Radio Tokuflix
+https://ssl.hdradios.net:7664/
 #EXTINF: -1 group-title = "Rádios Otakus", Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
 #EXTINF: -1 group-title = "Rádios Otakus", J-Pop Sakura
