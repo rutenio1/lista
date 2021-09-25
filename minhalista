@@ -89,6 +89,10 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Anime Tv
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1370791118.m3u8
+#EXTINF: -1, ANIME STATION
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w266948015.m3u8
+#EXTINF: -1, ANIME TV 2
+https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1420880469.m3u8
 #EXTINF: -1,TV MANCHETE WEB
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1750241911.m3u8
 #EXTINF:-1,RETROO CARTOON 
