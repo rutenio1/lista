@@ -1,17 +1,11 @@
 
 #EXTINF:-1,
 
-#EXTINF:-1,Record News
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w392650902.m3u8
-
-
 #EXTINF:-1,SBT-2
-https://5a1c76baf08c0.streamlock.net/sbtinterior/7pvjagfew38f093wcsx9qorpvzgmcdzrnkuj/chunklist_w273884558.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w1373956856.m3u8
 
 #EXTINF:-1,Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w859172980.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
 #EXTINF:-1,Rede Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8
@@ -21,34 +15,27 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&reb
 #EXTINF: -1, REDE TV
 https://hls.brasilstream.com.br/live/redetves/redetves/tracks-v1a1/mono.m3u8?token=6410329353875642000
 
-#EXTINF: -1, REDE TV -2
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w834326090.m3u8
+#EXTINF: -1, REDE TV! ES
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
 
-#EXTINF: -1, REDE TV -3
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2119646202_b2798482.m3u8
+#EXTINF: -1, REDE TV! PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w2105815766.m3u8
 
-#EXTINF: -1, TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1276238080.m3u8
+#EXTINF: -1, TV CULTURA - PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
 
-#EXTINF: -1,TV CULTURA -2
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(V0k8jyWEI2RS1oWh7nOyrg)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_Bfrg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaGlxpiZgmjwDPQesnR3vo5p_nsv2wdNlANBHQqgjHynUImYloh4LY_KlrlNXRlKP_jL6fhkrjPOnjbe-5g)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhJGO3ez3Yo)))/live_720_index.m3u8
-
-#EXTINF: -1, TV CULTURA -3
-https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1843632361.m3u8
+#EXTINF: -1,TV CULTURA - RN
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w671006547.m3u8
+#EXTINF: -1, TV GAZETA MA
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w868290520.m3u8
 #EXTINF: -1, TV BRASIL
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(OnF01jKJEMyEcXhZDpqQvA)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_Bfrg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaHqxoi_hmjwDPQesnR3vo5p_nsv2wdNlANBHQqgjEmNSKWolPMjLvr4hLxfax19MeTQ2Pt0jCuSnjfv3Zg)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhJMOn-_3Yo)))/live_720_index.m3u8
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(zLuVYZDm2XqHI-zYfoeX4A)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGBQwBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
 
-#EXTINF: -1,TV Xtreme
-https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w1579571020.m3u8
+#EXTINF: -1, TV UNIÃO - BRASÍLIA
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1482805562.m3u8
 
-#EXTINF: -1, TV UNIÃO
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8 
-
-#EXTINF: -1, Animax Brasil
-https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w1762941982.m3u8
-
-#EXTINF: -1, Multplay online
-https://stmv4.samcast.com.br/natanael4227/natanael4227/chunklist_w1514616314.m3u8
+#EXTINF: -1,  TV UNIÃO -  NATAL
+https://5e837408ea907.streamlock.net:1936/8002/8002/chunklist_w1848740725.m3u8
 
 #EXTINF: -1, Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w974745730.m3u8
@@ -92,8 +79,6 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="WebTV", TV Tokyo - WebTV
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
-#EXTINF​:-1,tv Takata
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF: -1, Cam segurança, japão
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8 
 #EXTINF: -1, AWS Tokyo
@@ -115,11 +100,10 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w162779359.m3u8
-#EXTINF:-1,
+#EXTINF:-1, MULHER BIONICA
 #EXTINF:-1,TV SERIES 
 https://stmv6.srvstm.com/tvserie2/tvserie2/chunklist_w1059517719.m3u8
-#EXTINF:-1,MEGA TV 
-https://stmv1.srvif.com/megacine/megacine/chunklist_w617485856.m3u8
+
 #EXTINF:-1,TV NORDESTE 
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w37018781.m3u8
 #EXTINF:-1,FILMES GOSPEL 
@@ -133,18 +117,14 @@ b9/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiNDUuMTY2LjExOS4yIjtpOjE7czoxMDI6Ik1veml
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
 #EXTINF:-1,TV CLASSIQUE 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w887702201.m3u8
-#EXTINF:-1,TV LIBERDADE 
-http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1223650047.m3u8
+#EXTINF:-1,
 #EXTINF: -1, Tv Escola HD
-https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(dBetpny0OaHBahg9rtMVaw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwamoxKazz2mrWfEmmHAvl6Bs8FJI6Wx441QAGjTKwU2fSL-YrdlCAPrWm7tdPytLMcbn2J1wsx_1oEbby9J6)'t(5yQ)b(gFxs5Mu5MV9ELnPWxe5bAliHTUQ4f7PDkZTn)))/live_540_index.m3u8
+https://edge-go-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(6CnpoBs_xlPZicMHbM1SqA)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGCSgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
 #EXTINF:-1,TV JAPI 
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
-#EXTINF:-1,CINE TRIANON 
-https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1694469956.m3u8
+
 #EXTINF:-1,FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
-#EXTINF: -1, Tv Escola HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
 
 #EXTINF:-1,HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
@@ -164,12 +144,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1,TV COM
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
-#EXTINF:-1,BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,REDE TV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF: -1, Band - RBA TV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
 #EXTINF: -1 group-title = "Rádios FM", Rádio Tempo Fortaleza FM
 http://r13.ciclano.io:8609/stream
 #EXTINF: - 1group-title = "Rádios FM", Rádio Oi FM
@@ -202,8 +178,7 @@ http://108.61.43.2:8232/stream2?sid=2/stream
 http://listen.181fm.com:7080/181-power_128k.mp3
 #EXTINF:-1, Rádio Branime
 http://server04.stmsg.top:6706/;
-#EXTINF:-1, Radio Tokuflix
-https://ssl.hdradios.net:7664/
+
 #EXTINF: -1 group-title = "Rádios Otakus", Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
 #EXTINF: -1 group-title = "Rádios Otakus", J-Pop Sakura
@@ -212,8 +187,7 @@ https://igor.torontocast.com:1710/;
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF: -1 group-title = "Rádios Otakus", Rádio JMusicAnime
 https://node-13.zeno.fm/g0wsfbbaft5tv?rj-ttl=5&rj-tok=AAABeiFtHcMAU87Kirg9JXbKzA
-#EXTINF: -1 group-title = "Rádios Otakus", FM KARUIZAWA
-https://chi-live3-ais-relay2.leanstream.co/musicbird/JCB108.stream/8tGpGN6IJE5p-162405869-9984.aac
+
 #EXTINF: -1 group-title = "Rádios Otakus", Êxitos do Japão - Ásia DREAM
 http://igor.torontocast.com:1025/;
 #EXTINF: -1 group-title = "Rádios Otakus", J-Rock Powerplay
@@ -232,8 +206,7 @@ http://199.101.98.82:11702/;
 
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 4
 http://centova.nardele.com.br:4343/stream?1612056587107
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 5
-https://www.radios.com.br/old_php/players/load/silence.mp3
+
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 6
 http://centova2.euroti.com.br:8131/stream?1612056760475
 
@@ -285,38 +258,8 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
 
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Avenida Caxias do Sul . Luíz Franciosi Sério
-https://video-cam.bitcom.psi.br/CSL-PRACA-FORQUETA/CSL-PRACA-FORQUETA.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R .Bento Gonçalves
-https://video-cam.bitcom.psi.br/CSL-CESAR-CIDADAOAMIGO-360/CSL-CESAR-CIDADAOAMIGO-360.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Das Feiras 2
-https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-ESQUERDA/CSL-PRACA-FEIRAS-ESQUERDA.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Das Feiras
-https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-DIREITA/CSL-PRACA-FEIRAS-DIREITA.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Nova Petrópolis Rua Coberta
-https://video-cam.bitcom.psi.br/NP-RUA-COBERTA/NP-RUA-COBERTA.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Nova Petrópolis Labirinto Verde
-https://video-cam.bitcom.psi.br/NP-LABIRINTO-VERDE/NP-LABIRINTO-VERDE.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Centro Leste
-https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-LESTE/CSL-CLIMA-AO-VIVO-LESTE.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Centro Oeste
-https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-OESTE/CSL-CLIMA-AO-VIVO-OESTE.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Parque dos Pinheiros
-https://video-cam.bitcom.psi.br/FRP-PARQUE-DOS-PINHEIROS/FRP-PARQUE-DOS-PINHEIROS.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Rod. dos Romeiros
-https://video-cam.bitcom.psi.br/FRP-CARAVAGGIO-IGREJA/FRP-CARAVAGGIO-IGREJA.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Farroupilha Igreja de Caravaggio
-https://video-cam.bitcom.psi.br/FRP-CARAVAGGIO-CLIMA-AO-VIVO/FRP-CARAVAGGIO-CLIMA-AO-VIVO.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Rod . Br 116
-https://video-cam.bitcom.psi.br/CSL-360-POP-CRISTOVAO/CSL-360-POP-CRISTOVAO.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Hotel Intercity
-https://video-cam.bitcom.psi.br/CSL-360-POP-INTERCITY/CSL-360-POP-INTERCITY.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R . Vinte de Setembro
-https://video-cam.bitcom.psi.br/CSL-360-BOMBEIROS/CSL-360-BOMBEIROS.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul R . Vinte de Setembro 2
-https://video-cam.bitcom.psi.br/CSL-360-BOMBEIROS2/CSL-360-BOMBEIROS2.stream/chunklist.m3u8
-#EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Caxias do Sul Praça Dante Alighieri
-https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-CHAFARIZ/CSL-PRACA-DANTE-CHAFARIZ.stream/chunklist.m3u8
+#EXTINF: -1, - CAMERAS DE SEGURANÇA-
+
 #EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Mashhad
 https://tv.razavi.ir/hls/jomhori_1.m3u8
 #EXTINF: -1 group-title = "CAMERAS" tvg-logo = "https://mobilidadesampa.com.br/wp-content/uploads/2015/12/cameras-mobilidadesampa1-696x479.png", Mykonos
