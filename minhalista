@@ -173,10 +173,23 @@ https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF: -1 group-title = "Rádios FM", ANTENA 1
 http://108.61.43.2:8232/stream2?sid=2/stream
-#EXTINF: -1 group-title = "Rádios FM", COCA COLA FM
+#EXTINF: -1, 89 FM A Rádio Rock
+https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm
+
+#EXTINF: -1, Super Rock Hits
+https://reshun.ru/Brasil/Super-Rock-Hits/icecast.audio
+
+#EXTINF: -1, 91 Rock
+https://servidor40.brlogic.com:8044/live?
+
+
+#EXTINF: -1, Rádio Cidade FM
+https://r10.ciclano.io:15057/stream
+
+#EXTINF: -1, Rádio 93 FM
+https://23093.live.streamtheworld.com/FM93AAC.aac
 http://listen.181fm.com:7080/181-power_128k.mp3
-#EXTINF:-1, Rádio Branime
-http://server04.stmsg.top:6706/;
+
 
 #EXTINF: -1 group-title = "Rádios Otakus", Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
