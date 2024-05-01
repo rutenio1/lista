@@ -1,7 +1,18 @@
 
 
 
-
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1714583324">
+  <channel id="5fa97a8a75cc210007c9041d">
+    <display-name>Conhecendo a Pluto TV</display-name>
+    <icon src="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f120e94a5714d00074576a1">
+    <display-name>Pluto TV Cine Sucessos</display-name>
+    <icon src="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png"/>
+  </channel>
+  <channel id="5f120f41b7d403000783a6d6">
+    <display-name>Pluto TV Filmes Ação</display-name>
+    <icon src="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png"/>
 #EXTINF:-1 tvg-logo="https://simg.minhateca.com.br/dd3642e976560e5e191a5e2ff3243c576065f8f6?url=http%3A%2F%2Fwww.permutalivre.com.br%2Fimg_produto%2Fgrande%2Fimg15734980.jpg", O Grande Dragão Branco
 https://r8---sn-b8u-4vgs.googlevideo.com/videoplayback?lmt=1482908715815926&key=yt6&ip=2804%3A7f7%3Ae380%3A9bec%3Afdad%3A1aa2%3A1866%3A3580&pl=39&itag=22&dur=4600.987&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&id=o-AGRety4ubzGOdoDNngiC1BFLdgWXMNllbq6VlWzHAq6i&initcwndbps=858750&source=youtube&expire=1503201939&mn=sn-b8u-4vgs&mm=31&ipbits=0&ratebypass=yes&requiressl=yes&signature=1587BD141FDAFEEB9987B1A692A38D81A7A0D541.64BCDCE7379C6683AAA8FA0B3EC9F00A36F1EAA0&mv=m&mt=1503180222&ms=au&ei=M7aYWdDGD5WM-gXK8r6QCg
 
