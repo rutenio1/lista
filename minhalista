@@ -1,8 +1,9 @@
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",Desenhos
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
-#EXTINF:-1, Desenhos
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
+
+#EXTINF:-1 , TV Metrópole Canal 16.1HD
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2049394494.m3u8
 #EXTINF:-1, Multi Canais
 https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1, Record News Ao Vivo
@@ -10,124 +11,115 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w402065817.m3u8
 #EXTINF: -1, REDE TV! ES
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1, Record 
-http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u88
 #EXTINF: -1, TV CULTURA - PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1290400020.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO",SBT HD Recife
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
-#EXTINF: -1, TV BRASIL
-https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8
-#EXTINF: -1, TV UNIÃO - BRASÍLIA
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1482805562.m3u8
-#EXTINF:-1, TV Diário
-https://stream-10.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZWv6IKGPFRDkGpibnV6GGyN8kOzpg8pBkult2voFBQA)/dm/3/x7txn7q/s/live-3.m3u8#cell=lcore
-#EXTINF:-1, FUTURA (TV O Povo)
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
+#EXTINF:-1 ,SBT HD 
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF: -1, Band
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+#EXTINF: -1, TV UNIÃO - Fortaleza
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:-1, TV União  Natal
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:-1, TV União  Brasilia
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:-1, TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w274082034.m3u8
 
-#EXTINF: -1, Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w974745730.m3u8
+#EXTINF: -1, Cariri TV
+https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w48340974.m3u8
 
-#EXTINF: -1, Star Trek online 24 horas
-https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYojlIf4H4_8hviTlMF0j_fzPZz7HnKfro2x3umwFYPlT3sr_kVZDMKKxbXhjqk-RWivH6XjAqrZ4_YysWkINc-CcOygF5UiwrQLF6CfJs7dsuBITXJddpVFW4GwBlChaUz0gcVHLGl_r-8bfJ_YxEvIceEEjwRpz4rpjWbeI-rUP6r3znXryHHKkkFVY/w200-h100/STAR%20TREK.jpg" group-title="SÉRIES CLASSICAS", STAR TREK
+https://stmv1.srvif.com/startrek/startrek/chunklist_w83470955.m3u8
 
-#EXTINF: -1, Premium TV 
+#EXTINF: -1, SÉRIES CLASSIC 
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1229264443.m3u8
 
-#EXTINF: -1, TV PANTANAL
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w1831707309.m3u8
+#EXTINF: -1, Canal 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w143868786.m3u8
 
-#EXTINF: -1, Guerra, Sombra e Água Fresca online 24 horas
-https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w1660795946.m3u8
+#EXTINF: -1, AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF: -1,As Panteras online 24 horas
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF: -1,XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1016444118.m3u8
 
-#EXTINF: -1, A Mulher Biônica online 24 horas
-https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
-#EXTINF: -1, AGENTE 86
-https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-#EXTINF: -1, OS TRÊS PATETAS
-https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
+#EXTINF: -1, RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w559042060.m3u8
+#EXTINF: -1, GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1799552926.m3u8
 
-#EXTINF: -1, Chips online 24 horas
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINF: -1, CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1341101186.m3u8
+#EXTINF:-1,GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF: -1, Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w333960677.m3u8
+#EXTINF: -1, WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w18299462.m3u8
+#EXTINF: -1, VINTAGE TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w11651705.m3u8
+#EXTINF: -1, 1980 CHANNEL
+https://stmv1.srvif.com/channel80s/channel80s/chunklist_w707566944.m3u8
 
-#EXTINF: -1, Jetsons 24 horas
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1970907557.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87VJ8QTg4Ps9Cm0d3ctycsGtySQ4aXHIsssV3NDFgKkpRxhVRah2-BvatOJv8YZS9okAvLKDG6EPXgwLYXDj7A45ZWQPTzfRHjHoxh0q7pQEWtFHcPtfNZYsYkqUEfgP-mxhU3j_0PzLc70RUqsgkWtK___i8ohoX9JQezBIq2Mbc1edXTlVFgkXk/w200-h100/ANIME%20TV.jpg" group-title="Anime TV",  Tv Anime
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1493172703.m3u8
 
 #EXTINF: -1,TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 
-#EXTINF: -1, TV CEI 
-https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
+#EXTINF: -1, KpopTV Play
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1, TV Viva
-https://video02.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1289128357.m3u8
-#EXTINF: -1, TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w922304476.m3u8
-#EXTINF: -1, YEEAAH TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 , TV GAZETA SP 
-hhttps://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8
+#EXTINF: -1, OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w580424161.m3u8
+#EXTINF: -1, Animestation Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w860719774.m3u8
+#EXTINF: -1, Animestation Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w860719774.m3u8
 
-#EXTINF: -1, Cam segurança, japão
-http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8 
-#EXTINF: -1, AWS Tokyo
-https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
-#EXTINF: -1, SEXKPOP
- https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF: -1, Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,Anime Tv
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1370791118.m3u8
-#EXTINF: -1, TV XTREME
-https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/chunklist_w1279629961.m3u8
+#EXTINF: -1, Anime Tv Ao Vivo
+https://stmv1.srvif.com/animetv/animetv/chunklist_w709094529.m3u8
+#EXTINF: -1, PLAY TV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+
 #EXTINF: -1, LOADING TV
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1224704461.m3u8
-#EXTINF: -1,Anime Zone TV
-https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1,ANITV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w469658989.m3u8
-#EXTINF:-1, ONE TV
-https://stmv1.painelvideo.top/102030/102030/chunklist_w1195842619.m3u8
-#EXTINF:-1, TVBS
-https://srv1.zcast.com.br/tvbs/tvbs/chunklist_w875246886.m3u8
-#EXTINF:-1, KPOP TV PLAY
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w946404291.m3u8
+#EXTINF: -1, WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1039009798.m3u8
+#EXTINF: -1, GEEKDOT
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1, Desenhos
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87uxBbz-fNhG9smyz9-GDHp6s1QzFvWZAZsI5TrrvI6v2XztXIr-nMtbPcj0AqzQt8V7xs75M_nLB45cyzjV_hbvIYoQFc6dAUnxcV6aIj1UFUOckm0h1lmmOTCX5lSD4L2YiggNa_DRCjl9bWUGoVVDM-8591WJ0zvflNzWaQKPFpyHsXrrvvQ8E_rE/w200-h100/ESPECIAL%20DE%20NATAL%20JESUS.jpg" group-title="Evangelicos",  Filmes Gospel
+https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
+#EXTINF: -1, GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
+#EXTINF: -1, GOSPEL MUSIC TELEVISION
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w2117290354.m3u8
+#EXTINF: -1, TOP MIX TV 2
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1975870293.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6jkND8T-pD9CiYToHsH0HKhHaTF8keL5rQWwWBLKlHPcwvhWQspFzAdFBXPDMZA8la2JigxBjzjCBKHIyDqfv8683UNeSSQTZqzYUmyAAsefI_hhWEunC90JIGXXKoE_lthYOJCm4OCWlFv8-Ktv46kJmG1llkUV5Ey6HDo_cnnTAbr-q9-gWIE1qOs/w200-h100/VCLASSIC%20TV.jpg" group-title="Musicais",  Vintage Music
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1462374032.m3u8
+#EXTINF: -1, TOP TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF: -1, M20 TV
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3291370.m3u8
+
+#EXTINF: -1, MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1,RETROO CARTOON 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8 
 
-#EXTINF:-1,RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,TV BRASIL HITS
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
-#EXTINF:-1, TV RUNTIME
-https://stream.ads.ottera.tv/cl/2dd4440d-82f3-4047-a488-b8c79b298ad5/1280x720_3071200_0_false.m3u8
-#EXTINF:-1, Cine Life Classic
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
-#EXTINF:-1,FILMES GOSPEL 
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
-#EXTINF:-1,TV VALE 
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w1762616700.m3u8
-#EXTINF:-1,VINTAGE TV 
-https://stmv6.srvstm.com/rogerio4248/rogerio4248/chunklist_w1416058350.m3u8
-b9/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiNDUuMTY2LjExOS4yIjtpOjE7czoxMDI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ny4wLjQyODAuODggU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYwNzkxNzM3NTt9
-#EXTINF:-1,TV FRONTEIRA MOVIES
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
-#EXTINF:-1,UP WEB TV
-https://stmv1.srvstm.com/paulo4642/paulo4642/chunklist_w1689467148.m3u8
-#EXTINF:-1,GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
-#EXTINF: -1, ASSIM É PORTUGAL TV
-https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/mono.m3u8
-#EXTINF:-1,TV JAPI 
-https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1377104197.m3u8
-#EXTINF:-1,TV EDUCADORA
-https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 
 #EXTINF:-1,HD MUSIC
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
@@ -135,17 +127,13 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1, Go Tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
-#EXTINF:-1,RADIO M20
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1,ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
-#EXTINF:-1,ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1,TV COM
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25fb09e22350edf4cc18c5b81acdff15.webp" group-title="Filmes",  FILMES
 
 
 #EXTINF: -1 group-title = "Rádios FM", Rádio Tempo Fortaleza FM
