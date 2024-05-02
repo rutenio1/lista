@@ -10,8 +10,7 @@ https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w402065817.m3u8
 #EXTINF: -1, REDE TV! ES
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-#EXTINF:-1, Record 
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u88
+
 #EXTINF: -1, TV CULTURA - PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1290400020.m3u8
 #EXTINF:-1 ,SBT HD 
@@ -66,8 +65,6 @@ https://stmv1.srvif.com/channel80s/channel80s/chunklist_w707566944.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87VJ8QTg4Ps9Cm0d3ctycsGtySQ4aXHIsssV3NDFgKkpRxhVRah2-BvatOJv8YZS9okAvLKDG6EPXgwLYXDj7A45ZWQPTzfRHjHoxh0q7pQEWtFHcPtfNZYsYkqUEfgP-mxhU3j_0PzLc70RUqsgkWtK___i8ohoX9JQezBIq2Mbc1edXTlVFgkXk/w200-h100/ANIME%20TV.jpg" group-title="Anime TV",  Tv Anime
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1493172703.m3u8
 
-#EXTINF: -1,TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 
 #EXTINF: -1, KpopTV Play
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
@@ -114,8 +111,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF: -1, M20 TV
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3291370.m3u8
 
-#EXTINF: -1, MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1,RETROO CARTOON 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8 
@@ -128,22 +123,16 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1, Go Tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
 
-#EXTINF:-1,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,ROCK TV
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25fb09e22350edf4cc18c5b81acdff15.webp" group-title="Filmes",  FILMES
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25fb09e22350edf4cc18c5b81acdff15.webp" group-title="Rádios",  Rádios FM
 
 
 #EXTINF: -1 group-title = "Rádios FM", Rádio Tempo Fortaleza FM
 http://r13.ciclano.io:8609/stream
-#EXTINF: - 1group-title = "Rádios FM", Rádio Oi FM
-https://node-30.zeno.fm/a2hnxfndd3quv?rj-ttl=5&rj-tok=AAABdmHjBi4ArAXUEFINWa8A_w
+
 #EXTINF: -1 group-title = "Rádios FM", Rádio Beach Park FM
 http://www.radioideal.net:8026/;stream/1
-#EXTINF: -1 group-title = "Rádios FM", Rádio Atlântico Sul FM 105,7
-http://142.44.230.74:9026/live
+
 #EXTINF: -1 group-title = "Rádios FM", Rádio Rock1
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #EXTINF: -1, Rádio Rock2
@@ -164,47 +153,33 @@ https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
 #EXTINF: -1 group-title = "Rádios FM", ANTENA 1
 http://108.61.43.2:8232/stream2?sid=2/stream
-#EXTINF: -1, 89 FM A Rádio Rock
-https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm
 
-#EXTINF: -1, Super Rock Hits
-https://reshun.ru/Brasil/Super-Rock-Hits/icecast.audio
+#EXTINF: -1,  Acusticos
+https://stream.vagalume.fm/hls/14634980201914128847/aac.m3u8
 
-#EXTINF: -1, 91 Rock
-https://servidor40.brlogic.com:8044/live?
+#EXTINF: -1,  Acusticos
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 
-
-#EXTINF: -1, Rádio Cidade FM
-https://r10.ciclano.io:15055/stream
-#EXTINF: -1, Rádio 93 FM
-https://23093.live.streamtheworld.com/FM93AAC.aac
-http://listen.181fm.com:7080/181-power_128k.mp3
 
 
 #EXTINF: -1 group-title = "Rádios Otakus", Rádio J1
 http://jenny.torontocast.com:8056/;stream.nsv
-#EXTINF: -1 group-title = "Rádios Otakus", J-Pop Sakura
-https://igor.torontocast.com:1710/;
-#EXTINF: -1 group-title = "Rádios Otakus", Praia Shonan
-http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-#EXTINF: -1 group-title = "Rádios Otakus", Rádio JMusicAnime
-https://node-13.zeno.fm/g0wsfbbaft5tv?rj-ttl=5&rj-tok=AAABeiFtHcMAU87Kirg9JXbKzA
 
-#EXTINF: -1 group-title = "Rádios Otakus", Êxitos do Japão - Ásia DREAM
-http://igor.torontocast.com:1025/;
+#EXTINF: -1 group-title = "Rádios Otakus",Animu
+https://cast.animu.com.br:9079/;?type=http?0.49962449867486214
+#EXTINF: -1 group-title = "Rádios Otakus", Rádio JMusicAnime
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+
 #EXTINF: -1 group-title = "Rádios Otakus", J-Rock Powerplay
 https://kathy.torontocast.com:3340/;
-#EXTINF: -1 group-title = "Rádios Otakus", Rádio Anime MX 
-https://streaming.radionomy.com/JamendoLounge
-#EXTINF: -1 group-title = "Rádios Otakus", Rádio Anime Plus
-https://node-18.zeno.fm/rfun7q8bt8quv?rj-ttl=5&rj-tok=AAABeiGAHaQA1Xag8x4juIKG6g
+
 
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 1
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 2
 https://servidor33-3.brlogic.com:8192/live
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 3
-http://199.101.98.82:11702/;
+
 
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 4
 http://centova.nardele.com.br:4343/stream?1612056587107
