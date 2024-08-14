@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",Desenhos
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
 
-#EXTINF:-1 , TV Metrópole Canal 16.1HD
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2049394494.m3u8
+#EXTINF:-1 , teste
+http://sv1.nowiptv.net:8880/live/dailonlopes/8080c/38817.m3u8
 #EXTINF:-1, Multi Canais
 https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1, Record News Ao Vivo
