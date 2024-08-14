@@ -3,15 +3,15 @@
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
 
 #EXTINF:-1 , GLOBO_SP
-https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+
 https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1, Record News Ao Vivo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w402065817.m3u8
 #EXTINF: -1, REDE TV! ES
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
-#EXTINF: -1, TV CULTURA - PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1290400020.m3u8
+#EXTINF: -1, TVGlobo SP
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SBT HD 
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF: -1, Band
