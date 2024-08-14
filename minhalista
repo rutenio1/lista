@@ -18,8 +18,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF: -1, TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lhd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1, TV União  Natal
-https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:-1, TV Record
+https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TV União  Brasilia
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1, TV Aracati
