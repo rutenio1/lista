@@ -43,6 +43,38 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF: -1,Hallo Classic
 https://cdn-4.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
+#EXTINF: -1,Runtime - Terror
+https://stream.ads.ottera.tv/cl/240814cqu38mkc143lashc2ec0/1280x720_3071200_0_f.m3u8?i=728_4865
+#EXTINF: -1,RumTimeCrime
+https://stream.ads.ottera.tv/cl/240814cqu3age9gvjf864flfh0/1280x720_3071200_0_f.m3u8?i=728_4864
+#EXTINF: -1,RunTime -  Romance
+https://stream.ads.ottera.tv/cl/240814cqu3aqqjfi0j3uhl7jm0/1280x720_3071200_0_f.m3u8?i=475_4866
+#EXTINF: -1,Cinemax
+https://anonmedia.eu/cinemax/tracks-v1a1/mono.m3u8
+#EXTINF: -1, HBO
+https://anonmedia.eu/hbo/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Sony Channel
+https://cdn-4.nxplay.com.br/SONY_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Telecine Comedia
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/a0f64d4429234a2d9dee94a93e94c04e/index.mpd
+#EXTINF: -1, Animal Planet
+https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Disscovery Channel
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+#EXTINF: -1,Discovery Science
+https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/mono.m3u8
+#EXTINF: -1, Discovery Theater
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
+#EXTINF: -1, Combat
+https://anonmedia.eu/combate/tracks-v1a1/mono.m3u8
+#EXTINF: -1,Comedy Central
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288-3-main.m3u8
+#EXTINF: -1, Disney Chanel
+https://anonmedia.eu/disneychannel/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF: -1, RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w559042060.m3u8
 #EXTINF: -1, GLN TV
