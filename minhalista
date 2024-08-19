@@ -1,12 +1,18 @@
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",Desenhos
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
 
 #EXTINF:-1 , 
+#EXTINF: -1, Band News
+https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, Band Sport
+https://cdn-4.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, Ubsoft TV
+https://stream.ads.ottera.tv/cl/240819cr1csnrh0s03ggg83h80/1280x720_3413660_0_f.m3u8?i=475_6291
 
 https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1, Record News Ao Vivo
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w402065817.m3u8
+https://cdn-4.nxplay.com.br/RECORD_NEWS_TK/tracks-v2a1/mono.m3u8
 #EXTINF: -1, REDE TV! ES
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
@@ -42,25 +48,40 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF: -1,Hallo Classic
 https://cdn-4.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Hallo Anime
+https://cdn-4.nxplay.com.br/HALLOANIME/tracks-v1/mono.m3u8
 
-#EXTINF: -1,Runtime - Terror
-https://stream.ads.ottera.tv/cl/240814cqu38mkc143lashc2ec0/1280x720_3071200_0_f.m3u8?i=728_4865
-#EXTINF: -1,RumTimeCrime
-https://stream.ads.ottera.tv/cl/240814cqu3age9gvjf864flfh0/1280x720_3071200_0_f.m3u8?i=728_4864
-#EXTINF: -1,RunTime -  Romance
-https://stream.ads.ottera.tv/cl/240814cqu3aqqjfi0j3uhl7jm0/1280x720_3071200_0_f.m3u8?i=475_4866
+#EXTINF: -1, Hallo Anime
+https://cdn-4.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Animal Planet
+https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Disscovery Channel
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+#EXTINF: -1, Discovery Home & Health Brasil
+https://cdn-4.nxplay.com.br/DISCOVERY_HH_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, discovery Kids
+https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, discovery Kids Word
+https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, discovery ID 
+https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1, discovery Turbo
+https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1,  TLC
+https://cdn-4.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
 #EXTINF: -1,History 2
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 #EXTINF: -1, History
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
-#EXTINF: -1, Sony Channel
-https://cdn-4.nxplay.com.br/SONY_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF: -1, ToonCast
-https://cdn-4.nxplay.com.br/TOONCAST_TK/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Animal Planet
-https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Disscovery Channel
-https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+
+
 #EXTINF: -1,Discovery Science
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/mono.m3u8
 #EXTINF: -1, Discovery Theater
@@ -72,7 +93,10 @@ https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
 #EXTINF: -1, ESPN
 https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 
-
+#EXTINF: -1, Sony Channel
+https://cdn-4.nxplay.com.br/SONY_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF: -1, ToonCast
+https://cdn-4.nxplay.com.br/TOONCAST_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1, RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w559042060.m3u8
