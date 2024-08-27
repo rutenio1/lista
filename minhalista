@@ -243,8 +243,8 @@ http://centova.nardele.com.br:4343/stream?1612056587107
 #EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 6
 http://centova2.euroti.com.br:8131/stream?1612056760475
 
-#EXTINF:-1 tvg-id="" tvg-name="([XX] ADULTO 11" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",([ XX] ADULTO 11
-https://adultm3u.com/dl/x-adultm3u-com-20-12-2021.m3u
+#EXTINF:-1 [ XX] ADULTO 11
+https://adultm3u.com/dl/x-adultm3u-com-30-04-2020.m3u
 
 
 
