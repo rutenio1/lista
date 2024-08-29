@@ -1,34 +1,32 @@
 
 
 #EXTINF:-1 , 
-#EXTINF: -1, DANZAN
-https://yvk4gjarn28qthwmfcs5zp.cdnrecruit.net:8443/hls/iubkxytogk0uw.m3u8?s=mRCzxXgiEy9Q87t-P5Mf6g&e=1724064627
-#EXTINF: -1, Band News
+
+#EXTINF: -1, " group-title="Canais Abertos",Band News
 https://cdn-4.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF: -1, Band Sport
+#EXTINF: -1," group-title="Canais Fechados", Band Sport
 https://cdn-4.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
 #EXTINF: -1, Adult Swim
 https://embedcanaistv.site/live/ultra/tv/2.m3u8
 
-https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1, Record News Ao Vivo
+#EXTINF:-1,  " group-title="Canais Abertos",Record News Ao Vivo
 https://cdn-4.nxplay.com.br/RECORD_NEWS_TK/tracks-v2a1/mono.m3u8
-#EXTINF: -1, REDE TV! ES
+#EXTINF: -1,  " group-title="Canais Abertos",REDE TV! ES
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
-#EXTINF: -1, TVGlobo SP
+#EXTINF: -1,  " group-title="Canais Abertos",TVGlobo SP
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SBT HD 
+#EXTINF:-1 , " group-title="Canais Abertos",SBT HD 
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF: -1, Band
+#EXTINF: -1,  " group-title="Canais Abertos",Band
 https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
-#EXTINF: -1, TV Cultura
+#EXTINF: -1,  " group-title="Canais Abertos",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lhd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1, TV Record
+#EXTINF:-1,  " group-title="Canais Abertos",TV Record
 https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TV União  
+#EXTINF:-1,  " group-title="Canais Abertos",TV União  
 https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w475471984.m3u8
 #EXTINF:-1, TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w274082034.m3u8
