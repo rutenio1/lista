@@ -9,131 +9,82 @@ https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklis
 #EXTINF: -1, ,SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1627622632.m3u8
 
-#EXTINF: -1, ,Record News
-https://stream.ads.ottera.tv/cl/250614d16s9ng0vfbe0dh528s0/1280x720_3071200_0_f.m3u8?i=728_5431
+#EXTINF: -1, ,Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w970697371.m3u8
 #EXTINF:-1 ,Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF: -1 ,Band
-https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
-#EXTINF: -1,TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lhd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:-1,TV Record
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  TV União  
-https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w475471984.m3u8
-#EXTINF:-1, TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w274082034.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF: -1 ,Verdes Mares
+https://live-vm-ce-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdm0tY2UtMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMDE0MDk0LCJpYXQiOjE3NDk5Mjc2OTQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0zMTM5ODQpL3R2dm1jZWZvcjIvcGxheWxpc3QubTN1OCJ9.zmFQTR7jTjbfa5XBUBSpy0cQ2PPZkFRErpg4xD0kWDXaR5pNdT5uiTYniI3eyMY4XOVgThNVs7_bg-2Poe_FHsbyyM2NqnMJutu5bnzR-gfmmkc702qR1nIPPED-RU8ASQt5r2UO9sW2v-tx6nlXylNH2jLAn4SSN2vxEZKc5B-0vNcLu78zliOzBqH9-TLNT6xGpr3cDCmj0cSL0XvtzCFu5HJoLpTN8oiGQipc4dkMKWoxpFUCmtXgN2RYrcPt7mk8g-_VvgHdsrJrbD4CP-r6JnIE31-WpTuyIi5UIbgjVra9EYRlqceg6Wf2asB5JSOSTVrYS17yYDu3Ixz1pg/live/f(bMin=313984)/tvvmcefor2/tvvmcefor2-audio_1=96000-video=2262976.m3u8
+#EXTINF: -1,TV Metroplolis
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1515799371.m3u8
+#EXTINF:-1,TV União
+https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w22805337.m3u8
+#EXTINF:-1,  TV Capital Ao Vivo  
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/chunklist_w1264780664.m3u8
+#EXTINF:-1, Canal FDR Ao Vivo
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal EducaÃ§Ã£o (720p)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
+Desenhos
 
-#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (JP News) (1080p) [Not 24/7]
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1, Anime Tv Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1777742104.m3u8
+#EXTINF:-1, Desenhos Clássicos TV
+https://stmv6.voxtvhd.com.br/retrotv/retrotv/chunklist_w305228220.m3u8
 
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentary;Science",Nova TV Agrotour (360p)
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1, Tv Loading Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1840224583.m3u8
 
+#EXTINF:-1, Otaku Sign Tv Ao Vivo
+https://stmv1.srvif.com/anime/anime/chunklist_w42308266.m3u8
 
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (720p)
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1, Web Tv Xtreme Ao Vivo
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w318570441.m3u8
 
+#EXTINF:-1,Animestation Ao Vivo
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w804295046.m3u8
 
+#EXTINF:-1, Gospel Cartoon Ao Vivo
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w211492523.m3u8
 
-#EXTINF:-1 tvg-id="RedeMetropole.br" tvg-logo="https://i.imgur.com/qJx9Zvd.png" group-title="General",Rede MetrÃ³pole (1080p)
-https://acesso.ecast.site:3456/hybrid/play.m3u8
+Séries Vintage
 
-#EXTINF: -1, Cariri TV
-https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w48340974.m3u8
+#EXTINF:-1, Filmes Online Ao Vivo
+https://stream.ads.ottera.tv/cl/250614d16src4j9ulp2m048iig/1920x1080_6046040_3_f.m3u8?i=728_6178
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYojlIf4H4_8hviTlMF0j_fzPZz7HnKfro2x3umwFYPlT3sr_kVZDMKKxbXhjqk-RWivH6XjAqrZ4_YysWkINc-CcOygF5UiwrQLF6CfJs7dsuBITXJddpVFW4GwBlChaUz0gcVHLGl_r-8bfJ_YxEvIceEEjwRpz4rpjWbeI-rUP6r3znXryHHKkkFVY/w200-h100/STAR%20TREK.jpg" group-title="SÉRIES CLASSICAS", STAR TREK
-https://stmv1.srvif.com/startrek/startrek/chunklist_w83470955.m3u8
+#EXTINF:-1, Rede Clouding TV Ao Vivo
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w150960773.m3u8
 
-#EXTINF: -1, SÉRIES CLASSIC 
-https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1229264443.m3u8
+#EXTINF:-1, Runtime Ação Ao Vivo
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
-#EXTINF: -1, Canal 29
-https://stmv1.srvif.com/canal29/canal29/chunklist_w143868786.m3u8
+#EXTINF:-1, Moviesphere Brazil 
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF: -1, AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:-1,GLN TV Ao Vivo
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1477720667.m3u8
 
-#EXTINF: -1,Hallo Classic
-https://cdn-4.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Hallo Anime
-https://cdn-4.nxplay.com.br/HALLOANIME/tracks-v1/mono.m3u8
+#EXTINF:-1, Sony One Cinema Ao Vivo
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF: -1, Hallo Anime
-https://cdn-4.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV e Filmes
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
-#EXTINF: -1, Animal Planet
-https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Runtime Comédia Ao Vivo
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 
-#EXTINF: -1, Disscovery Channel
-https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
-#EXTINF: -1, Discovery Home & Health Brasil
-https://cdn-4.nxplay.com.br/DISCOVERY_HH_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Runtime Crime Ao Vivo
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1, Runtime Família Ao Vivo
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 
-#EXTINF: -1, discovery Kids
-https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Runtime Romance Ao Vivo
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 
-#EXTINF: -1, discovery Kids Word
-https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Sony One Emoções Ao Vivo
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF: -1, discovery ID 
-https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
-
-#EXTINF: -1, discovery Turbo
-https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
-
-#EXTINF: -1,  TLC
-https://cdn-4.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
-#EXTINF: -1,History 2
-https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
-#EXTINF: -1, History
-https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
-
-
-#EXTINF: -1,Discovery Science
-https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/mono.m3u8
-#EXTINF: -1, Discovery Theater
-https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
-#EXTINF: -1, Warner
-https://cdn-4.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF: -1,Cartoon Network
-https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
-#EXTINF: -1, ESPN
-https://cdn-4.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1, Sony Channel
-https://cdn-4.nxplay.com.br/SONY_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF: -1, ToonCast
-https://cdn-4.nxplay.com.br/TOONCAST_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1, RETRÔ CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w559042060.m3u8
-#EXTINF: -1, GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1799552926.m3u8
-
-#EXTINF: -1, CLASSIQUE TV SÉRIES
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1341101186.m3u8
-#EXTINF:-1,GRJNGO
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
-#EXTINF: -1, Rede Manchete
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w333960677.m3u8
-#EXTINF: -1, WEB TV PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w18299462.m3u8
-#EXTINF: -1, VINTAGE TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w11651705.m3u8
-#EXTINF: -1, HunTime - Ação
-https://stream.ads.ottera.tv/cl/240814cqu313stnb6q4blsaf1g/1280x720_3071200_0_f.m3u8?i=728_2552
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87VJ8QTg4Ps9Cm0d3ctycsGtySQ4aXHIsssV3NDFgKkpRxhVRah2-BvatOJv8YZS9okAvLKDG6EPXgwLYXDj7A45ZWQPTzfRHjHoxh0q7pQEWtFHcPtfNZYsYkqUEfgP-mxhU3j_0PzLc70RUqsgkWtK___i8ohoX9JQezBIq2Mbc1edXTlVFgkXk/w200-h100/ANIME%20TV.jpg" group-title="Anime TV",  Tv Anime
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1493172703.m3u8
-
+#EXTINF:-1, ABC Brasil Ao Vivo
+https://stmv1.srvstm.com/abc7891/abc7891/chunklist_w1727588176.m3u8
 
 #EXTINF: -1, KpopTV Play
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
