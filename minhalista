@@ -137,8 +137,8 @@ https://live.hunter.fm/pop_normal
 #EXTINF: -1 group-title = "Rádios FM", Rádio Beach Park FM
 http://www.radioideal.net:8026/;stream/1
 
-#EXTINF: -1 group-title = "Rádios FM", Rádio Rock1
-https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF: -1 group-title = "Rádios FM", O Canal Pop
+https://live.hunter.fm/pop_normal
 #EXTINF: -1, Rádio Rock2
 https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 #EXTINF: -1 group-title = "Rádios FM", MPB
