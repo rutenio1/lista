@@ -30,6 +30,16 @@ Desenhos
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1777742104.m3u8
 #EXTINF:-1, Desenhos Clássicos TV
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/chunklist_w305228220.m3u8
+#EXTINF: -1, PLAY TV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1, TV Kpop
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF: -1, WORDING TV
+https://tv02.zas.media:1936/wor
+
+#EXTINF: -1, GEEKDOT
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1, Tv Loading Ao Vivo
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1840224583.m3u8
@@ -86,69 +96,43 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1, ABC Brasil Ao Vivo
 https://stmv1.srvstm.com/abc7891/abc7891/chunklist_w1727588176.m3u8
 
-#EXTINF: -1, KpopTV Play
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1, OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w580424161.m3u8
-#EXTINF: -1, Animestation Ao Vivo
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w860719774.m3u8
-#EXTINF: -1, Animestation Ao Vivo
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w860719774.m3u8
-
-#EXTINF: -1, Anime Tv Ao Vivo
-https://stmv1.srvif.com/animetv/animetv/chunklist_w709094529.m3u8
-#EXTINF: -1, PLAY TV
-https://isaocorp.cloudecast.com/playtv/mono.m3u8
-
-#EXTINF: -1, LOADING TV
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w946404291.m3u8
-#EXTINF: -1, WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1039009798.m3u8
-#EXTINF: -1, GEEKDOT
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1, Desenhos
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w689960963.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87uxBbz-fNhG9smyz9-GDHp6s1QzFvWZAZsI5TrrvI6v2XztXIr-nMtbPcj0AqzQt8V7xs75M_nLB45cyzjV_hbvIYoQFc6dAUnxcV6aIj1UFUOckm0h1lmmOTCX5lSD4L2YiggNa_DRCjl9bWUGoVVDM-8591WJ0zvflNzWaQKPFpyHsXrrvvQ8E_rE/w200-h100/ESPECIAL%20DE%20NATAL%20JESUS.jpg" group-title="Evangelicos",  Filmes Gospel
-https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
-#EXTINF: -1, GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
-#EXTINF: -1, GOSPEL MUSIC TELEVISION
-https://stmv1.srvif.com/gmusic/gmusic/chunklist_w2117290354.m3u8
-#EXTINF: -1, TOP MIX TV 2
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1975870293.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg6jkND8T-pD9CiYToHsH0HKhHaTF8keL5rQWwWBLKlHPcwvhWQspFzAdFBXPDMZA8la2JigxBjzjCBKHIyDqfv8683UNeSSQTZqzYUmyAAsefI_hhWEunC90JIGXXKoE_lthYOJCm4OCWlFv8-Ktv46kJmG1llkUV5Ey6HDo_cnnTAbr-q9-gWIE1qOs/w200-h100/VCLASSIC%20TV.jpg" group-title="Musicais",  Vintage Music
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1462374032.m3u8
-#EXTINF: -1, TOP TV
+``````````````````````````````````````````````````` ````````````````````````````````````````````````````
+Musicais
+#EXTINF:-1,Top Tv Ao Vivo
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1, NOW 80'S
+#EXTINF:-1, Retro Plus TV Ao Vivo
+
+#EXTINF:-1, Deluxe Music Tv Ao Vivo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/684cd8d364944_13018905_2506140205_1.m3u8
+
+#EXTINF:-1, NOW 80's Ao Vivo
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF: -1, M20 TV
-https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3291370.m3u8
+#EXTINF:-1, Trace Urban Ao Vivo
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb56381b6573638884cb3e61cef462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aaa6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5f7e25844d86fa3ac1841907d58e68314c9c915ee8985469f418425f5409d95a282d118e035a059886f6889ba39581fbbb23bf5eb4fb7c093654be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885ff108a066aff93ded168579be08abe454a1efcbb7d8f596c5b6394202da80838ffa2732f70191c7bf8d232cc9a4531015b82e63bb35324c906b6d721179877a00a614236c19cd9457929eb3ccc9bf9f5e9d29cfddf5a2f023246c290d9c54ae966c947c9328e886242852494bba8915eab2990f602c1fddc069dd1d4ded80cb9b895a728a410b4ae465ee5e0747c5202329b67ab7c96a2cc10d22b11811b718398949f9f80bf0a4d0ea4f7b96d6d54df26aa0e45985b852e73d72094280f32a5e57453285bd3143632fb1308eb9fde8790d0ffbe48daf90215f290d57035cc5b29d33f1e8e7261211cd565c105718059909d32992407e0920cd11c4bf4b13a1033226f2a82f57383bc2d0d061e66c079317194e6ce47ef3f822b5b4a150b8b65caf73/74/1920x1080_5288800/index.m3u8
+
+#EXTINF:-1, ROCK TV Ao Vivo
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1, Now Rock Ao Vivo 
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1, Retro Music Television Ao Vivo
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w2110262959_b878000.m3u8
+#EXTINF:-1, NOW 70's Ao Vivo 
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1, Gospel Music Television Ao Vivo
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w324200478.m3u8 
 
 
-#EXTINF:-1,RETROO CARTOON 
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w556815604.m3u8 
+````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Rádios
+
+ #EXTINF: -1,  Radio Jovem Pan 100.9 FM
+https://stream-163.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhJRmNKR1F0UlcyTHhnYlhBLVFERmciLCJpYXQiOjE3NDk5MzMxNTMsImV4cCI6MTc0OTkzMzIxM30.bcheYcEje-U0KfV4303Fx_3JBuF5tQjcLYLlxaOKVNE&1749933152158
 
 
-#EXTINF:-1,HD MUSIC
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1,RETRO TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1, Go Tv
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25fb09e22350edf4cc18c5b81acdff15.webp" group-title="Rádios",  Rádios FM
-
-
-#EXTINF: -1 group-title = "Rádios FM", Rádio Tempo Fortaleza FM
-http://r13.ciclano.io:8609/stream
 
 #EXTINF: -1 group-title = "Rádios FM", Rádio Beach Park FM
 http://www.radioideal.net:8026/;stream/1
