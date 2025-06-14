@@ -4,20 +4,15 @@
 
 #EXTINF: -1 ,Band Play
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJhMjFhMTI3Yi04ZTZmLTRlNGMtOGQ0ZS1hZTM5OTI2Njg2NDMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzQ5OTI2MDA3LCJpYXQiOjE3NDk5MjYwMDcsImV4cCI6MTc1MDAxMjQwNywianRpIjoiYTIxYTEyN2ItOGU2Zi00ZTRjLThkNGUtYWUzOTkyNjY4NjQzIiwiaXNzIjoiU3BhbGxhIn0.RQCzyk6mrjzyNglruPG9EKPBIm9GFF8mBnbbbBl7Z0c&uid=a21a127b-8e6f-4e4c-8d4e-ae3992668643&magica=sim
-#EXTINF: -1, SBT
-https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/0cb2df6d-28e0-48ac-9754-8dfbd43ec5cc/5.m3u8
-#EXTINF: -1, Adult Swim
-https://embedcanaistv.site/live/ultra/tv/2.m3u8
+#EXTINF:-1,  Record 
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1356971784.m3u8
+#EXTINF: -1, ,SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1627622632.m3u8
 
-#EXTINF:-1,  Record News Ao Vivo
-https://cdn-4.nxplay.com.br/RECORD_NEWS_TK/tracks-v2a1/mono.m3u8
-#EXTINF: -1, ,REDE TV! ES
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-
-#EXTINF: -1, ,TVGlobo SP
-https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SBT HD 
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF: -1, ,Record News
+https://stream.ads.ottera.tv/cl/250614d16s9ng0vfbe0dh528s0/1280x720_3071200_0_f.m3u8?i=728_5431
+#EXTINF:-1 ,Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF: -1 ,Band
 https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF: -1,TV Cultura
