@@ -2,11 +2,10 @@
 
 #EXTINF:-1 , 
 
-#EXTINF: -1 ,Band News
+#EXTINF: -1 ,Band Play
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJhMjFhMTI3Yi04ZTZmLTRlNGMtOGQ0ZS1hZTM5OTI2Njg2NDMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzQ5OTI2MDA3LCJpYXQiOjE3NDk5MjYwMDcsImV4cCI6MTc1MDAxMjQwNywianRpIjoiYTIxYTEyN2ItOGU2Zi00ZTRjLThkNGUtYWUzOTkyNjY4NjQzIiwiaXNzIjoiU3BhbGxhIn0.RQCzyk6mrjzyNglruPG9EKPBIm9GFF8mBnbbbBl7Z0c&uid=a21a127b-8e6f-4e4c-8d4e-ae3992668643&magica=sim
-#EXTINF: -1, Band Sport
-https://cdn-4.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
-
+#EXTINF: -1, SBT
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1749948068/ei/Q8JNaOLfO_CP-LAPqbvk4Aw/ip/45.166.117.5/id/ABVQXgr2LW4.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-4g5ojpnjvfxnaxt-4vge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLOig6ki6gkvu1O4vJOYGNEsNJzbeE4OHVFomjSLWBHAZWLb6q4C8fQPzhKm3gO-KuDAulFxgMaG/spc/l3OVKaLUlTQ4SAZ3l8PuiFiu_xM0fsFm6pAqr1S_mxStoKCcm-GjHInstpVVc0CXWmQ/vprv/1/playlist_type/DVR/met/1749926468,/mh/mT/mm/44/mn/sn-4g5ojpnjvfxnaxt-4vge/ms/lva/mv/u/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1749925227/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgEiCtfeu67ddw2NpPQxWORVa8tYADwWWU3mK2MoKQZM4CIQDjU6yVP5mQW_C7W1PeINQsnMLcPUoY78H-sQZBSoUsxQ%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgbO0oIHJUHtpQJ6YRwWUyKxZ1pc43IOW_t3-8LK8FTeACIGhkBppwxVihCoxZKqmBJbr3NM0mErZriSABiAu6hEeU/playlist/index.m3u8
 #EXTINF: -1, Adult Swim
 https://embedcanaistv.site/live/ultra/tv/2.m3u8
 
