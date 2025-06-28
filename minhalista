@@ -2,8 +2,7 @@
 
 #EXTINF:-1 , 
 
-#EXTINF: -1 ,Band Play
-https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiJhMjFhMTI3Yi04ZTZmLTRlNGMtOGQ0ZS1hZTM5OTI2Njg2NDMiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzQ5OTI2MDA3LCJpYXQiOjE3NDk5MjYwMDcsImV4cCI6MTc1MDAxMjQwNywianRpIjoiYTIxYTEyN2ItOGU2Zi00ZTRjLThkNGUtYWUzOTkyNjY4NjQzIiwiaXNzIjoiU3BhbGxhIn0.RQCzyk6mrjzyNglruPG9EKPBIm9GFF8mBnbbbBl7Z0c&uid=a21a127b-8e6f-4e4c-8d4e-ae3992668643&magica=sim
+
 #EXTINF:-1,  Record 
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1356971784.m3u8
 #EXTINF: -1, ,SBT
@@ -13,8 +12,8 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w970697371.m3u8
 #EXTINF:-1 ,Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF: -1 ,Verdes Mares
-https://live-vm-ce-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdm0tY2UtMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMDE0MDk0LCJpYXQiOjE3NDk5Mjc2OTQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0zMTM5ODQpL3R2dm1jZWZvcjIvcGxheWxpc3QubTN1OCJ9.zmFQTR7jTjbfa5XBUBSpy0cQ2PPZkFRErpg4xD0kWDXaR5pNdT5uiTYniI3eyMY4XOVgThNVs7_bg-2Poe_FHsbyyM2NqnMJutu5bnzR-gfmmkc702qR1nIPPED-RU8ASQt5r2UO9sW2v-tx6nlXylNH2jLAn4SSN2vxEZKc5B-0vNcLu78zliOzBqH9-TLNT6xGpr3cDCmj0cSL0XvtzCFu5HJoLpTN8oiGQipc4dkMKWoxpFUCmtXgN2RYrcPt7mk8g-_VvgHdsrJrbD4CP-r6JnIE31-WpTuyIi5UIbgjVra9EYRlqceg6Wf2asB5JSOSTVrYS17yYDu3Ixz1pg/live/f(bMin=313984)/tvvmcefor2/tvvmcefor2-audio_1=96000-video=2262976.m3u8
+#EXTINF: -1 ,teste tv
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-5682793056.googleapis.com.pt/docs/aie/__index.m3u8?sv=104&nu3zAQc9HC3GbwJq=1751079508-VQKyyFVmlKkzomgy%2FV8EBnYIUlm6xlaupttktchQOWY%3D
 #EXTINF: -1,TV Metroplolis
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1515799371.m3u8
 #EXTINF:-1,TV União
@@ -35,8 +34,8 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1, TV Kpop
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF: -1, WORDING TV
-https://tv02.zas.media:1936/wor
+#EXTINF: -1, testando
+https://01-mcteteu.shop/secret_key/1c3f972d2bfbac9f768bd4e56568557a.m3u8
 
 #EXTINF: -1, GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
@@ -58,8 +57,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w211492523.m3u8
 
 Séries Vintage
 
-#EXTINF:-1, Filmes Online Ao Vivo
-https://stream.ads.ottera.tv/cl/250614d16src4j9ulp2m048iig/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-1, testandofilme Minecraft
+https://tmstr1.shadowlandschronicles.com/pl/H4sIAAAAAAAAAwXB2XKDIBQA0F9C0ET7mLpk4zqAXNQ3gsxYxYyTpmnq1_ecPdvFxO9jSoY0i7PE3m7OZSxNPUup9exDkmRSoV9dGDm2QE2RXcU0oNJQdjo8pH4qoNmur86dX5JaBqhkCXFv1q.6ejbXqGeXCGoxjbGrsMZ2OKlj.PEIL1WOpFkkdyZ59ZNUdiHv64ZEbDgOYVBA5j9jxhyKM.d50MYUkctBo1kn385vGYVFFb8Pt51Lf5y37o5HG4bYN7LQLGgIgSs8rJwG27TDg89Ahc7eHX1SWEpZt5ALhlGD8OlMeVBVtArzTSz2F3FHawmaf6FBOkkhAQAA/1a489963d7656acb9327bf9124035ba9/index.m3u8
 
 #EXTINF:-1, Rede Clouding TV Ao Vivo
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w150960773.m3u8
@@ -147,37 +146,24 @@ http://sc6.radiocaroline.net:8040/mp3
 https://ip169.ozelip.com:10998/;
 
 
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 1
+Verdinha FM
+
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist.m3u8
+
+93 FM
+https://jvcs2dtro0.zoeweb.tv/fm93/stream/chunklist_w270370450.m3u8
+
+Rádio Rede Aleluia 99.9 FM
+https://134398c.ha.azioncdn.net/primary/radiorecord.sdp/chunklist_27510c0b-b4fe-4d40-abb3-0800419b0631.m3u8
+
+ESTAÇÃO Gospel
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 2
-https://servidor33-3.brlogic.com:8192/live
 
+Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 4
-http://centova.nardele.com.br:4343/stream?1612056587107
-
-#EXTINF: -1 group-title = "Rádios Gospél", RADIO GOSPEL 6
-http://centova2.euroti.com.br:8131/stream?1612056760475
-
-#EXTINF:-1 Canais Japoneses
-https://adultm3u.com/dl/x-adultm3u-com-30-04-2020.m3u
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",Animax (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512" group-title="General",BS TV Tokyo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-
-#EXTINF:-1 tvg-id="JODXDTV.jp" tvg-logo="https://i.imgur.com/WMNg5De.png" group-title="Undefined",Kansai TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-
-#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Japan (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="Music",Music Japan TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/512px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="Undefined",TV Tokyo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/1507234172639199-1507234172-03-30.00.aac
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
