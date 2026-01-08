@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 , Globo
-https://agropesca.live/live/globosp/index.m3u8
+#EXTINF:-1 ,
+
 #EXTINF:-1 , Globo News
 https://d1muf25xa01so8hp09.s27-usa-cloudfront-net.online/token/fd139622362e9607f9aaa4a1d1c17988/globonews.m3u8
+#EXTINF:-1 , Globo
+https://agropesca.live/live/globosp/index.m3u8
 #EXTINF:-1, Band
 https://cdn-brisanet.cportal.com.br/BANDEIRANT/DASH/stream.mpd
 #EXTINF:-1, Futura
