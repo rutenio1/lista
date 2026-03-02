@@ -37,11 +37,9 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF: -1,TV Metroplolis
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1515799371.m3u8
 #EXTINF:-1,TV União
-https://video09.logicahost.com.br/tvuniao/tvuniao/chunklist_w22805337.m3u8
-#EXTINF:-1,  TV Capital Ao Vivo  
-https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/chunklist_w1264780664.m3u8
-#EXTINF:-1, Canal FDR Ao Vivo
-https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
+https://pushapp.uniaoplay.com.br/hls/0/stream.m3u8
+#EXTINF:-1,REDE NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
 Desenhos
 
@@ -53,9 +51,6 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 https://streams.kanade.cl/webtv/kanadeweb/tracks-v1a1/mono.ts.m3u8?token=deM0kanADeweB
 #EXTINF:-1, TV Kpop
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
-#EXTINF: -1, testando
-https://01-mcteteu.shop/secret_key/1c3f972d2bfbac9f768bd4e56568557a.m3u8
-
 #EXTINF: -1, GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -66,11 +61,28 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1, Otaku Sign Tv Ao Vivo
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1,Animestation Ao Vivo
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w804295046.m3u8
 
-#EXTINF:-1, Gospel Cartoon Ao Vivo
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w211492523.m3u8
+#EXTINF:-1, LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+
+#EXTINF:-1, Desenhos Biblicos
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=61181y69
+
+#EXTINF:-1, GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+#EXTINF:-1,JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+#EXTINF:-1, KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w1391738607.m3u8
+
+
+
+#EXTINF:-1,TOON GOGGLES BRASIL
+https://stream.ads.ottera.tv/cl/260302d6j0gmjr2r64rreuapmg/1280x720_3071200_0_f.m3u8?i=475_274
 
 Séries Vintage
 
@@ -85,9 +97,6 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
 #EXTINF:-1, Moviesphere Brazil 
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1,GLN TV Ao Vivo
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1477720667.m3u8
 
 #EXTINF:-1, Sony One Cinema Ao Vivo
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
@@ -109,37 +118,39 @@ https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:-1, Sony One Emoções Ao Vivo
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1, ABC Brasil Ao Vivo
-https://stmv1.srvstm.com/abc7891/abc7891/chunklist_w1727588176.m3u8
 
+
+#EXTINF:-1, CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w92875398.m3u8
 ``````````````````````````````````````````````````` ````````````````````````````````````````````````````
 Musicais
-#EXTINF:-1,Top Tv Ao Vivo
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Retro Plus TV Ao Vivo
 
-#EXTINF:-1, Deluxe Music Tv Ao Vivo
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/684cd8d364944_13018905_2506140205_1.m3u8
+#EXTINF:-1, VINTAGE TV
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=t0egv4268
 
-#EXTINF:-1, NOW 80's Ao Vivo
+#EXTINF:-1,NOW 80'S
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1, Trace Urban Ao Vivo
-https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb56381b6573638884cb3e61cef462ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aaa6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5f7e25844d86fa3ac1841907d58e68314c9c915ee8985469f418425f5409d95a282d118e035a059886f6889ba39581fbbb23bf5eb4fb7c093654be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885ff108a066aff93ded168579be08abe454a1efcbb7d8f596c5b6394202da80838ffa2732f70191c7bf8d232cc9a4531015b82e63bb35324c906b6d721179877a00a614236c19cd9457929eb3ccc9bf9f5e9d29cfddf5a2f023246c290d9c54ae966c947c9328e886242852494bba8915eab2990f602c1fddc069dd1d4ded80cb9b895a728a410b4ae465ee5e0747c5202329b67ab7c96a2cc10d22b11811b718398949f9f80bf0a4d0ea4f7b96d6d54df26aa0e45985b852e73d72094280f32a5e57453285bd3143632fb1308eb9fde8790d0ffbe48daf90215f290d57035cc5b29d33f1e8e7261211cd565c105718059909d32992407e0920cd11c4bf4b13a1033226f2a82f57383bc2d0d061e66c079317194e6ce47ef3f822b5b4a150b8b65caf73/74/1920x1080_5288800/index.m3u8
 
-#EXTINF:-1, ROCK TV Ao Vivo
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1, RETRO PLUS TV
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1286512000.m3u8
 
-#EXTINF:-1, Now Rock Ao Vivo 
-https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1, Retro Music Television Ao Vivo
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w2110262959_b878000.m3u8
-#EXTINF:-1, NOW 70's Ao Vivo 
+#EXTINF:-1,RETRO MUSIC TELEVISION
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w160287444_b1428000.m3u8
+
+#EXTINF:-1,RÁDIO E TV CLÁSSICOS FM
+https://v01.taaqui.org/joel/joel/chunklist_w996578145.m3u8
+
+#EXTINF:-1, VCLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w997653299.m3u8
+
+#EXTINF:-1, NOW 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1, Gospel Music Television Ao Vivo
-https://stmv1.srvif.com/gmusic/gmusic/chunklist_w324200478.m3u8 
 
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````
