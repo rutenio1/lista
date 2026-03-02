@@ -30,8 +30,8 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Brazil",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" tvg-id="TVERS.br" group-title="Brazil",TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-name="TV TROPICAL (Record RN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" tvg-id="TVERS.br" group-title="Brazil",TVE RS
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w1845168166.m3u8
 #EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" group-title="Brazil",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF: -1,TV Metroplolis
@@ -46,28 +46,25 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 Desenhos
 
 #EXTINF:-1, Anime Tv Ao Vivo
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1777742104.m3u8
-#EXTINF:-1, Desenhos Clássicos TV
-https://stmv6.voxtvhd.com.br/retrotv/retrotv/chunklist_w305228220.m3u8
-#EXTINF: -1, PLAY TV
-https://isaocorp.cloudecast.com/playtv/mono.m3u8
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w213074526.m3u8
+#EXTINF:-1, OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF: -1, KANADE
+https://streams.kanade.cl/webtv/kanadeweb/tracks-v1a1/mono.ts.m3u8?token=deM0kanADeweB
 #EXTINF:-1, TV Kpop
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
 #EXTINF: -1, testando
 https://01-mcteteu.shop/secret_key/1c3f972d2bfbac9f768bd4e56568557a.m3u8
 
 #EXTINF: -1, GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
+
 #EXTINF:-1, Tv Loading Ao Vivo
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1840224583.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1, Otaku Sign Tv Ao Vivo
-https://stmv1.srvif.com/anime/anime/chunklist_w42308266.m3u8
-
-#EXTINF:-1, Web Tv Xtreme Ao Vivo
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w318570441.m3u8
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
 #EXTINF:-1,Animestation Ao Vivo
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w804295046.m3u8
